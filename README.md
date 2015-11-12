@@ -24,7 +24,7 @@
 * [Laravel 4 Mastery by Jeffrey Way](http://code.tutsplus.com/tutorials/laravel-4-mastery--net-31233) —— tutsplus.com
 * [Laravel 3 Essentials](http://www.tudou.com/plcover/XCJTpoABmUA/) —— 
 * [ Rails or Laravel: Building an App Twice](https://code.tutsplus.com/courses/rails-or-laravel-building-an-app-twice) —— 
-* [ Rails or Laravel: Building an App Twice](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
+* [ Arjun Yonjan](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
 
 
 ###教程
