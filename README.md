@@ -13,8 +13,19 @@
 
 
 ###视频
-* [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程
+* [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
+* [laravist-free](https://laracasts.com/tags/free) —— 免费
+* [laravist-free](https://laracasts.com/series/laravel-from-scratch) —— 免费
 * [zexeo.com](http://zexeo.com/) —— Laravel 4 快速上手系列教程
+* [Laravel 5 框架闯关记](http://www.lampym.com/course/29) —— Laravel 5 框架闯关记-入门篇
+* [laracon2013](https://www.youtube.com/watch?v=JyBol0X-NlU&list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN) —— 墙外
+* [laracon2014](http://userscape.com/laracon/2014/) —— 墙外
+* [What’s New in Laravel 4](https://code.tutsplus.com/courses/whats-new-in-laravel-4) —— tutsplus.com-收费
+* [Laravel 4 Mastery by Jeffrey Way](http://code.tutsplus.com/tutorials/laravel-4-mastery--net-31233) —— tutsplus.com
+* [Laravel 3 Essentials](http://www.tudou.com/plcover/XCJTpoABmUA/) —— 
+* [ Rails or Laravel: Building an App Twice](https://code.tutsplus.com/courses/rails-or-laravel-building-an-app-twice) —— 
+* [ Rails or Laravel: Building an App Twice](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
+
 
 ###教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
