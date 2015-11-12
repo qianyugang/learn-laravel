@@ -20,6 +20,7 @@
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
 * [Laravel5系列入门教程](http://www.golaravel.com/post/laravel-5-getting-started-part-1/) —— Laravel5系列入门教程
 * [Laravel大型项目系列教程](https://www.shiyanlou.com/courses/123) —— Laravel大型项目系列教程
+* [Laravel5 入门小项目详细教程](https://phphub.org/topics/804) —— 不做伸手党,分享快乐,Laravel5 入门小项目详细教程
 
 ##Laravel 开源项目集
 ###原型项目
