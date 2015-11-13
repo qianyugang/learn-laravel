@@ -25,6 +25,7 @@
 * [Laravel 3 Essentials](http://www.tudou.com/plcover/XCJTpoABmUA/) —— 
 * [ Rails or Laravel: Building an App Twice](https://code.tutsplus.com/courses/rails-or-laravel-building-an-app-twice) —— 
 * [ Arjun Yonjan](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
+* [ laravel框架项目实战课](http://www.ydma.cn/course/138) —— ydma.cn-收费
 
 
 ###教程
