@@ -5,10 +5,10 @@
 ###官方网站
 * [Laravel.com](http://laravel.com/) —— Laravel官网
 * [golaravel.com](http://www.golaravel.com/) —— Laravel中文网
-* [laravel-china.org](http://laravel-china.org/)
 * [lumen](http://lumen.laravel-china.org/) —— 为速度而生的 Laravel 框架
 
 ###论坛
+* [laravel-china.org](http://laravel-china.org/) -- Laravel 论坛
 * [phphub.org](https://phphub.org/) —— 积极向上的 PHP & Laravel 开发者社区,
 * [laravel.io](http://laravel.io/) —— Laravel 开发者社区
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
@@ -25,10 +25,10 @@
 * [What’s New in Laravel 4](https://code.tutsplus.com/courses/whats-new-in-laravel-4) —— tutsplus.com-收费
 * [Laravel 4 Mastery by Jeffrey Way](http://code.tutsplus.com/tutorials/laravel-4-mastery--net-31233) —— tutsplus.com
 * [Laravel 3 Essentials](http://www.tudou.com/plcover/XCJTpoABmUA/) —— 
-* [ Rails or Laravel: Building an App Twice](https://code.tutsplus.com/courses/rails-or-laravel-building-an-app-twice) —— 
-* [ Arjun Yonjan](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
-* [ laravel框架项目实战课](http://www.ydma.cn/course/138) —— ydma.cn-收费
-
+* [Rails or Laravel: Building an App Twice](https://code.tutsplus.com/courses/rails-or-laravel-building-an-app-twice) —— 
+* [Arjun Yonjan](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
+* [laravel 框架项目实战课](http://www.ydma.cn/course/138) —— ydma.cn-收费
+* [轻松学会 laravel 系列 ](http://www.imooc.com/search/?words=laravel) -- 慕课网
 
 ###教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
