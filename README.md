@@ -14,10 +14,10 @@
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
 
 
-### 视频
+### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
 * [laravist-free](https://laracasts.com/tags/free) —— 免费
-* [laravist-free](https://laracasts.com/series/laravel-from-scratch) —— 免费
+* [laravist-free laravel](https://laracasts.com/series/laravel-from-scratch) —— 免费
 * [zexeo.com](http://zexeo.com/) —— Laravel 4 快速上手系列教程
 * [Laravel 5 框架闯关记](http://www.lampym.com/course/29) —— Laravel 5 框架闯关记-入门篇
 * [laracon2013](https://www.youtube.com/watch?v=JyBol0X-NlU&list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN) —— 墙外
@@ -31,6 +31,11 @@
 * [轻松学会 laravel 系列 ](http://www.imooc.com/search/?words=laravel) —— 慕课网
 * [laravel 实战 ](http://www.maiziedu.com/course/649/) —— 麦子学院
 * [Laravel：地球上最好用的PHP框架 - 入门篇](http://www.maiziedu.com/course/491/) —— 麦子学院
+* [Laravel Vue 开发 SPA 应用](https://www.codecasts.com/series/laravel-vuejs-spa) —— codecasts.com
+* [Laravel Vuejs 实战：开发知乎](https://www.codecasts.com/series/build-a-zhihu-website-with-laravel) —— codecasts.com
+* [Laravel 实用 package 推荐](https://www.codecasts.com/series/awesome-laravel-packages) —— codecasts.com
+* [laravel 开发微信公众号](https://www.codecasts.com/series/peak-into-wechat-development-using-laravel —— codecasts.com
+* [轻松使用 Laravel 队列](https://www.codecasts.com/series/laravel-queue-is-awesome) —— codecasts.com
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
