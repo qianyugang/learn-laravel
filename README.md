@@ -34,7 +34,7 @@
 * [Laravel Vue 开发 SPA 应用](https://www.codecasts.com/series/laravel-vuejs-spa) —— codecasts.com
 * [Laravel Vuejs 实战：开发知乎](https://www.codecasts.com/series/build-a-zhihu-website-with-laravel) —— codecasts.com
 * [Laravel 实用 package 推荐](https://www.codecasts.com/series/awesome-laravel-packages) —— codecasts.com
-* [laravel 开发微信公众号](https://www.codecasts.com/series/peak-into-wechat-development-using-laravel —— codecasts.com
+* [laravel 开发微信公众号](https://www.codecasts.com/series/peak-into-wechat-development-using-laravel) —— codecasts.com
 * [轻松使用 Laravel 队列](https://www.codecasts.com/series/laravel-queue-is-awesome) —— codecasts.com
 
 ### 教程
