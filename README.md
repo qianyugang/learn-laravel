@@ -29,6 +29,8 @@
 * [Arjun Yonjan](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
 * [laravel 框架项目实战课](http://www.ydma.cn/course/138) —— ydma.cn-收费
 * [轻松学会 laravel 系列 ](http://www.imooc.com/search/?words=laravel) —— 慕课网
+* [laravel 实战 ](http://www.maiziedu.com/course/649/) —— 麦子学院
+* [Laravel：地球上最好用的PHP框架 - 入门篇](http://www.maiziedu.com/course/491/) —— 麦子学院
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
