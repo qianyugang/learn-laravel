@@ -43,6 +43,7 @@
 * [Laravel大型项目系列教程](https://www.shiyanlou.com/courses/123) —— Laravel大型项目系列教程
 * [Laravel5 入门小项目详细教程](https://phphub.org/topics/804) —— 不做伸手党,分享快乐,Laravel5 入门小项目详细教程
 * [Laravel: 从百草园到三味书屋](https://openset.gitbooks.io/laravel/content/) —— Laravel 作者写的一本小书，介绍了 Laravel 的各种设计理念
+* [Laravel Tutorial](https://www.tutorialspoint.com/laravel/index.htm) —— tutorialspoint.com
 
 ## Laravel 开源项目集
 ### 原型项目
