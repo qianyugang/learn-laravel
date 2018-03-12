@@ -13,6 +13,15 @@
 * [laravel.io](http://laravel.io/) —— Laravel 开发者社区
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
 
+### 文档
+* [Laravel 5.6 中文文档翻译](https://zhuanlan.zhihu.com/p/34464172) —— Laravel 5.6 中文文档翻译完成，译者 60 人，耗时 10 天
+* [Laravel 5.4 中文文档](https://laravel-china.org/docs/laravel/5.4) —— Laravel 5.4 中文文档
+* [Laravel 5.5 中文文档](https://laravel-china.org/docs/laravel/5.5) —— Laravel 5.5 中文文档
+
+### 书籍
+* [《Laravel 入门教程》](https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial) —— Laravel 第一本中文新手书籍《Laravel 入门教程》
+* [《Web 开发实战进阶 - 从零开始构建论坛系统》](https://laravel-china.org/topics/6592/laravel-tutorial-series-book-second-web-developer-combat-advanced-began-to-build-the-forum-system-from-zero) —— Laravel 教程系列书第二本《Web 开发实战进阶 - 从零开始构建论坛系统》
+* [《Laravel 教程实战高级 - 构架 API 服务器》](https://laravel-china.org/topics/7657/laravel-tutorial-series-third-the-first-edition-of-the-laravel-tutorial-advanced-architecture-api-server) —— Laravel 教程系列书第三本《Laravel 教程实战高级 - 构架 API 服务器》
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
@@ -78,5 +87,4 @@
 * [StyleCI](http://laravelacademy.org/post/872.html) ——   由 PHP CS Fixer 开发，提供 PHP 代码风格持续集成服务
 * [Podcastwala](http://laravelacademy.org/post/1006.html) ——   基于 Laravel 5 ，构建属于你自己的播客网站
 * [Deployer](http://laravelacademy.org/post/1681.html) ——   基于 Laravel 5.1 的、免费的、开源的 PHP 应用部署工具
-
 
