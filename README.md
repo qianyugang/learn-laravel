@@ -1,4 +1,4 @@
-# Learn-Laravel —— 学习资料和开源项目集
+# Learn-Laravel — 学习资料和开源项目集
 
 ## Laravel 学习资料
 
@@ -6,6 +6,7 @@
 * [Laravel.com](http://laravel.com/) —— Laravel官网
 * [golaravel.com](http://www.golaravel.com/) —— Laravel中文网
 * [lumen](http://lumen.laravel-china.org/) —— 为速度而生的 Laravel 框架
+* [PHP 之道](http://laravel-china.github.io/php-the-right-way/#object_caching) —— PHP The Right Way
 
 ### 论坛
 * [laravel-china.org](http://laravel-china.org/) -- Laravel 论坛
