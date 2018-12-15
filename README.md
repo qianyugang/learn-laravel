@@ -9,7 +9,7 @@
 * [PHP 之道](http://laravel-china.github.io/php-the-right-way/#object_caching) —— PHP The Right Way
 
 ### 论坛
-* [laravel-china.org](http://laravel-china.org/) -- Laravel 论坛
+* [laravel-china.org](http://laravel-china.org/) —— Laravel 论坛
 * [phphub.org](https://phphub.org/) —— 积极向上的 PHP & Laravel 开发者社区,
 * [laravel.io](http://laravel.io/) —— Laravel 开发者社区
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
@@ -25,8 +25,12 @@
 * [《Web 开发实战进阶 - 从零开始构建论坛系统》](https://laravel-china.org/topics/6592/laravel-tutorial-series-book-second-web-developer-combat-advanced-began-to-build-the-forum-system-from-zero) —— Laravel 教程系列书第二本《Web 开发实战进阶 - 从零开始构建论坛系统》
 * [《Laravel 教程实战高级 - 构架 API 服务器》](https://laravel-china.org/topics/7657/laravel-tutorial-series-third-the-first-edition-of-the-laravel-tutorial-advanced-architecture-api-server) —— Laravel 教程系列书第三本《Laravel 教程实战高级 - 构架 API 服务器》
 * [《Mastering Laravel》](https://www.packtpub.com/web-development/mastering-laravel) —— Develop robust modern web-based software applications and RESTful APIs with Laravel, one of the hottest PHP frameworks
-* [《Learning Laravel's Eloquent》](https://www.packtpub.com/web-development/learning-laravels-eloquent)——Develop amazing data-based applications with Eloquent, the Laravel framework ORM
+* [《Learning Laravel's Eloquent》](https://www.packtpub.com/web-development/learning-laravels-eloquent) —— Develop amazing data-based applications with Eloquent, the Laravel framework ORM
 * [《Laravel 5 Essentials》](https://www.packtpub.com/web-development/laravel-5-essentials) —— Explore the fundamentals of Laravel, one of the most expressive and robust PHP frameworks available
+
+### 源码解读
+* [laravel 源码解读](https://www.jianshu.com/p/b7ea3f2a55f6) —— yii/laravel 的源码质量超高, phper 一定要好好读一读
+* [lavavrl 源码脑图](http://naotu.baidu.com/file/9d4b5ab081c174ebfaf2af01db81bc5b?token=9fb122830b33d1c8) —— 源码脑图，值得一看
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
