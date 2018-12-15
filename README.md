@@ -24,6 +24,9 @@
 * [《Laravel 入门教程》](https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial) —— Laravel 第一本中文新手书籍《Laravel 入门教程》
 * [《Web 开发实战进阶 - 从零开始构建论坛系统》](https://laravel-china.org/topics/6592/laravel-tutorial-series-book-second-web-developer-combat-advanced-began-to-build-the-forum-system-from-zero) —— Laravel 教程系列书第二本《Web 开发实战进阶 - 从零开始构建论坛系统》
 * [《Laravel 教程实战高级 - 构架 API 服务器》](https://laravel-china.org/topics/7657/laravel-tutorial-series-third-the-first-edition-of-the-laravel-tutorial-advanced-architecture-api-server) —— Laravel 教程系列书第三本《Laravel 教程实战高级 - 构架 API 服务器》
+* [《Mastering Laravel》](https://www.packtpub.com/web-development/mastering-laravel) —— Develop robust modern web-based software applications and RESTful APIs with Laravel, one of the hottest PHP frameworks
+* [《Learning Laravel's Eloquent》](https://www.packtpub.com/web-development/learning-laravels-eloquent)——Develop amazing data-based applications with Eloquent, the Laravel framework ORM
+* [《Laravel 5 Essentials》](https://www.packtpub.com/web-development/laravel-5-essentials) —— Explore the fundamentals of Laravel, one of the most expressive and robust PHP frameworks available
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
@@ -56,6 +59,8 @@
 * [Laravel: 从百草园到三味书屋](https://openset.gitbooks.io/laravel/content/) —— Laravel 作者写的一本小书，介绍了 Laravel 的各种设计理念
 * [Laravel Tutorial](https://www.tutorialspoint.com/laravel/index.htm) —— tutorialspoint.com
 * [learninglaravel.net](https://learninglaravel.net/) —— learninglaravel.net
+* [Laravel 教程 - Web 开发实战入门  ](https://laravel-china.org/courses/laravel-essential-training/5.7) —— L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.7 ) 
+
 
 ## Laravel 开源项目集
 ### 原型项目
