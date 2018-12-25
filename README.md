@@ -69,6 +69,7 @@
 * [Laravel Tutorial](https://www.tutorialspoint.com/laravel/index.htm) —— tutorialspoint.com
 * [learninglaravel.net](https://learninglaravel.net/) —— learninglaravel.net
 * [Laravel 教程 - Web 开发实战入门  ](https://laravel-china.org/courses/laravel-essential-training/5.7) —— L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.7 ) 
+* [基于 Laravel 5.7 开发博客应用系列](https://laravelacademy.org/category/blog) —— 博客系列 基于 Laravel 5.7 开发博客应用系列
 
 
 ## Laravel 开源项目集
