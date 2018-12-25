@@ -70,7 +70,8 @@
 * [learninglaravel.net](https://learninglaravel.net/) —— learninglaravel.net
 * [Laravel 教程 - Web 开发实战入门  ](https://laravel-china.org/courses/laravel-essential-training/5.7) —— L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.7 ) 
 * [基于 Laravel 5.7 开发博客应用系列](https://laravelacademy.org/category/blog) —— 博客系列 基于 Laravel 5.7 开发博客应用系列
-
+* [Laravel 从学徒到工匠精校版（ Laravel 5）](https://laravelacademy.org/laravel-from-appreciate-to-artisan) —— 基于Laravel 5 进行高级应用架构
+* [Laravel 前后端分离应用实例教程：Roast](https://laravelacademy.org/api-driven-development-laravel-vue) —— 本系列教程将基于 Laravel 5.6 + Vue 2 开发一个 API 驱动的前后端分离应用，命名为 Roast
 
 ## Laravel 开源项目集
 ### 原型项目
