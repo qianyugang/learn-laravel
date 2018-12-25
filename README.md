@@ -95,6 +95,10 @@
 
 ### 博客
 * [Wardrobe](http://laravelacademy.org/post/1203.html) ——  专注于写作的最小化博客平台
+* [Laravel 5 Blog](https://github.com/yccphp/laravel-5-blog) —— 基于 Laravel 5 开发的博客系统
+* [Canvas](http://laravelacademy.org/post/5136.html) —— 基于Laravel 5.2 开发的轻量级博客系统
+* [Katana](http://laravelacademy.org/post/4019.html) —— 静态博客/站点生成器（支持Markdown和GitHub Pages）
+* [MyPersimmon](http://laravelacademy.org/post/7119.html) —— 基于 Laravel 5.4 开发的博客系统
 
 ### 其他
 * [Laravel Tricks](http://laravelacademy.org/post/681.html) ——   Laravel 小技巧&小贴士
