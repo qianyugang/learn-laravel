@@ -74,6 +74,7 @@
 * [Laravel 前后端分离应用实例教程：Roast](https://laravelacademy.org/api-driven-development-laravel-vue) —— 本系列教程将基于 Laravel 5.6 + Vue 2 开发一个 API 驱动的前后端分离应用，命名为 Roast
 * [Laravel 5.7 From Scratch](https://laracasts.com/series/laravel-from-scratch-2018) —— "Laravel From Scratch" has been the go-to video resource for Laravel newcomers since 2013. （自2013年以来，“Laravel From Scratch”一直是Laravel新人的首选视频资源。）
 * [11 FREE LARAVEL VIDEO TUTORIALS FOR ABSOLUTE BEGINNERS](https://www.webdesignerdepot.com/2018/03/11-free-laravel-video-tutorials-for-absolute-beginners/) —— 初学者的11个免费的laravel视频教程
+* [8 Best + Free Laravel 5 Tutorial, Course, Training & Certification （2018）](https://digitaldefynd.com/best-laravel-tutorial-course-training-certification/) —— 8 个优秀的免费Laravel 5教程、课程、培训及认证
 
 ## Laravel 开源项目集
 ### 原型项目
