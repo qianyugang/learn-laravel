@@ -72,6 +72,8 @@
 * [基于 Laravel 5.7 开发博客应用系列](https://laravelacademy.org/category/blog) —— 博客系列 基于 Laravel 5.7 开发博客应用系列
 * [Laravel 从学徒到工匠精校版（ Laravel 5）](https://laravelacademy.org/laravel-from-appreciate-to-artisan) —— 基于Laravel 5 进行高级应用架构
 * [Laravel 前后端分离应用实例教程：Roast](https://laravelacademy.org/api-driven-development-laravel-vue) —— 本系列教程将基于 Laravel 5.6 + Vue 2 开发一个 API 驱动的前后端分离应用，命名为 Roast
+* [Laravel 5.7 From Scratch](https://laracasts.com/series/laravel-from-scratch-2018) —— "Laravel From Scratch" has been the go-to video resource for Laravel newcomers since 2013. （自2013年以来，“Laravel From Scratch”一直是Laravel新人的首选视频资源。）
+* [11 FREE LARAVEL VIDEO TUTORIALS FOR ABSOLUTE BEGINNERS](https://www.webdesignerdepot.com/2018/03/11-free-laravel-video-tutorials-for-absolute-beginners/) —— 初学者的11个免费的laravel视频教程
 
 ## Laravel 开源项目集
 ### 原型项目
