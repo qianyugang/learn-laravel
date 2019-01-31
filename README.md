@@ -36,6 +36,7 @@
 * [Laravel 源码解读系列第三篇](https://www.hellonine.top/index.php/archives/29/) —— Laravel源码解读系列第三篇-Response
 * [Laravel 源码解读系列第四篇](https://www.hellonine.top/index.php/archives/68/) —— Laravel源码解读系列第四篇-Auth机制
 * [Laravel 源码解读系列第五篇](https://www.hellonine.top/index.php/archives/82/) —— Laravel源码解读系列第五篇-Cache
+* [Laravel5.4 生命流程与源码分析](https://learnku.com/articles/7135/laravel-54-life-process-and-source-code-analysis) —— 生命流程与源码分析
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
