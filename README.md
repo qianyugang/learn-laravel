@@ -60,6 +60,7 @@
 * [Laravel 实用 package 推荐](https://www.codecasts.com/series/awesome-laravel-packages) —— codecasts.com
 * [laravel 开发微信公众号](https://www.codecasts.com/series/peak-into-wechat-development-using-laravel) —— codecasts.com
 * [轻松使用 Laravel 队列](https://www.codecasts.com/series/laravel-queue-is-awesome) —— codecasts.com
+* [Projects in Laravel: Learn Laravel Building 10 Projects](https://www.udemy.com/projects-in-laravel-learn-laravel-building-10-projects/) —— A complete course to master latest Laravel 5.4 web framework 收费
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
