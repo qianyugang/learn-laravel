@@ -97,6 +97,7 @@
 * [Laravel.io](http://laravelacademy.org/post/666.html) —— Laravel开发者社区
 * [Flarum](http://laravelacademy.org/post/1090.html) —— 免费的、开源的、专注于简约的论坛系统，esoTalk和FluexBB的联合继承者
 * [PHPHub](http://laravelacademy.org/post/899.html) —— 积极向上的 PHP & Laravel 开发者社区
+* [LaraBBS](https://github.com/summerblue/larabbs) —— LaraBBS 是一个简洁的论坛应用，使用 Laravel 编写而成。
 
 ### 项目管理
 * [92five app](http://laravelacademy.org/post/1045.html) —— 基于 Laravel框架 & Backbone JS 构建，是一个自托管的、基于web的项目管理应用
