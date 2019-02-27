@@ -9,7 +9,7 @@
 * [PHP 之道](http://laravel-china.github.io/php-the-right-way/#object_caching) —— PHP The Right Way
 
 ### 论坛
-* [laravel-china.org](http://laravel-china.org/) —— Laravel 论坛
+* [Laravel-china.org](http://laravel-china.org/) —— Laravel 论坛
 * [phphub.org](https://phphub.org/) —— 积极向上的 PHP & Laravel 开发者社区,
 * [laravel.io](http://laravel.io/) —— Laravel 开发者社区
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
@@ -29,14 +29,20 @@
 * [《Laravel 5 Essentials》](https://www.packtpub.com/web-development/laravel-5-essentials) —— Explore the fundamentals of Laravel, one of the most expressive and robust PHP frameworks available
 
 ### 源码解读
-* [laravel 源码解读](https://www.jianshu.com/p/b7ea3f2a55f6) —— yii/laravel 的源码质量超高, phper 一定要好好读一读
-* [laravel 源码脑图](http://naotu.baidu.com/file/9d4b5ab081c174ebfaf2af01db81bc5b?token=9fb122830b33d1c8) —— 源码脑图，值得一看
+* [Laravel 源码解读](https://www.jianshu.com/p/b7ea3f2a55f6) —— yii/laravel 的源码质量超高, phper 一定要好好读一读
+* [Laravel 源码脑图](http://naotu.baidu.com/file/9d4b5ab081c174ebfaf2af01db81bc5b?token=9fb122830b33d1c8) —— 源码脑图，值得一看
 * [Laravel 源码解读系列第一篇](https://www.hellonine.top/index.php/archives/6/) —— Laravel源码解读系列第一篇-初始化
 * [Laravel 源码解读系列第二篇](https://www.hellonine.top/index.php/archives/16/) —— Laravel源码解读系列第二篇-Request
 * [Laravel 源码解读系列第三篇](https://www.hellonine.top/index.php/archives/29/) —— Laravel源码解读系列第三篇-Response
 * [Laravel 源码解读系列第四篇](https://www.hellonine.top/index.php/archives/68/) —— Laravel源码解读系列第四篇-Auth机制
 * [Laravel 源码解读系列第五篇](https://www.hellonine.top/index.php/archives/82/) —— Laravel源码解读系列第五篇-Cache
 * [Laravel5.4 生命流程与源码分析](https://learnku.com/articles/7135/laravel-54-life-process-and-source-code-analysis) —— 生命流程与源码分析
+* [PHP FPM源代码反刍品味之一](https://www.jianshu.com/p/3bd0aef2f2b7) —— PHP FPM源代码反刍品味之一：无限运行程序
+* [PHP FPM源代码反刍品味之二](https://www.jianshu.com/p/744f2c5e2ad3) —— PHP FPM源代码反刍品味之二：IO多路复用
+* [PHP FPM源代码反刍品味之三](https://www.jianshu.com/p/542935a3bfa8) —— PHP FPM源代码反刍品味之三: 多进程模型
+* [PHP FPM源代码反刍品味之四](https://www.jianshu.com/p/e567ba80f3b2) —— PHP FPM源代码反刍品味之四：事件处理
+* [PHP FPM源代码反刍品味之五](https://www.jianshu.com/p/e3074fcf1b9d) —— PHP FPM源代码反刍品味之五：信号signal处理
+* [PHP FPM源代码反刍品味之六](https://www.jianshu.com/p/dac223d7d9ad) —— PHP FPM源代码反刍品味之六：IO事件机制的封装
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
