@@ -98,6 +98,7 @@
 * [PyroCMS](http://laravelacademy.org/post/1391.html) —— MVC架构的PHP内容管理系统，3.0以前基于CodeIgniter，目前基于Laravel 5.1
 * [LavaLite](http://laravelacademy.org/post/1227.html) —— 基于Laravel 5.1 & Bootstrap 3的内容管理系统
 * [TypiCMS](http://laravelacademy.org/post/1508.html) —— 基于 Laravel 5 构建的、支持多语言的内容管理系统
+* [Laracms](https://www.laracms.cn/) —— 一款基于 Laravel 开发的基础中文内容管理系统，可以在此基础上快速，优雅的开发实现您的需求
 
 ### 论坛
 * [Laravel.io](http://laravelacademy.org/post/666.html) —— Laravel开发者社区
