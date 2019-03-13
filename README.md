@@ -116,8 +116,10 @@
 * [Canvas](http://laravelacademy.org/post/5136.html) —— 基于Laravel 5.2 开发的轻量级博客系统
 * [Katana](http://laravelacademy.org/post/4019.html) —— 静态博客/站点生成器（支持Markdown和GitHub Pages）
 * [MyPersimmon](http://laravelacademy.org/post/7119.html) —— 基于 Laravel 5.4 开发的博客系统
+* [moell-blog](https://github.com/moell-peng/moell-blog) —— 基于 Laravel 开发，支持 Markdown 语法的博客 moell.cn
+* [bjyblog](https://github.com/baijunyao/laravel-bjyblog) —— 基于 laravel 开发的的 blog baijunyao.com，这个项目是把 thinkphp-bjyblog 用 laravel 框架重构后的产物
 
-### 其他
+## 其他
 * [Laravel Tricks](http://laravelacademy.org/post/681.html) ——   Laravel 小技巧&小贴士
 * [Invoice Ninja](http://laravelacademy.org/post/1117.html) ——   基于 Laravel 构建的开源发票及时间跟踪应用
 * [Paperwork](http://laravelacademy.org/post/748.html) ——   基于 Laravel 4.X 的开源的笔记&归档工具
