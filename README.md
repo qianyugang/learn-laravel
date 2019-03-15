@@ -44,6 +44,7 @@
 * [PHP FPM源代码反刍品味之五](https://www.jianshu.com/p/e3074fcf1b9d) —— PHP FPM源代码反刍品味之五：信号signal处理
 * [PHP FPM源代码反刍品味之六](https://www.jianshu.com/p/dac223d7d9ad) —— PHP FPM源代码反刍品味之六：IO事件机制的封装
 * [Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) —— Laravel核心代码学习
+* [Laravel 源码分析](https://58hualong.com/course/14/Laravel-yuan-ma-fen-xi) —— Laravel源码分析【已完结】视频教程 收费
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
