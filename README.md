@@ -130,4 +130,5 @@
 * [StyleCI](http://laravelacademy.org/post/872.html) ——   由 PHP CS Fixer 开发，提供 PHP 代码风格持续集成服务
 * [Podcastwala](http://laravelacademy.org/post/1006.html) ——   基于 Laravel 5 ，构建属于你自己的播客网站
 * [Deployer](http://laravelacademy.org/post/1681.html) ——   基于 Laravel 5.1 的、免费的、开源的 PHP 应用部署工具
+* [20 Laravel Eloquent Tips and Tricks](https://laravel-news.com/eloquent-tips-tricks) —— Laravel Eloquent Tips
 
