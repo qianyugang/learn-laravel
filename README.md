@@ -131,4 +131,5 @@
 * [Podcastwala](http://laravelacademy.org/post/1006.html) ——   基于 Laravel 5 ，构建属于你自己的播客网站
 * [Deployer](http://laravelacademy.org/post/1681.html) ——   基于 Laravel 5.1 的、免费的、开源的 PHP 应用部署工具
 * [20 Laravel Eloquent Tips and Tricks](https://laravel-news.com/eloquent-tips-tricks) —— Laravel Eloquent Tips
+* [Laravel Daily: Laravel Tips & Tutorials](https://laraveldaily.com/) —— Laravel Daily project has a goal of helping developers to learn some new Laravel trick (or remember an old one) every day.
 
