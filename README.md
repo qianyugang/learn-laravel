@@ -15,9 +15,9 @@
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
 
 ### 文档
-* [Laravel 5.1 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.1 中文文档
-* [Laravel 5.2 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.2 中文文档
-* [Laravel 5.3 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.3 中文文档
+* [Laravel 5.1 中文文档](https://learnku.com/docs/laravel/5.1) —— Laravel 5.1 中文文档
+* [Laravel 5.2 中文文档](https://learnku.com/docs/laravel/5.2) —— Laravel 5.2 中文文档
+* [Laravel 5.3 中文文档](https://learnku.com/docs/laravel/5.3) —— Laravel 5.3 中文文档
 * [Laravel 5.4 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.4 中文文档
 * [Laravel 5.5 中文文档](https://learnku.com/docs/laravel/5.5) —— Laravel 5.5 中文文档
 * [Laravel 5.6 中文文档](https://learnku.com/docs/laravel/5.6) —— Laravel 5.6 中文文档
