@@ -15,10 +15,14 @@
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
 
 ### 文档
-* [Laravel 5.4 中文文档](https://laravel-china.org/docs/laravel/5.4) —— Laravel 5.4 中文文档
-* [Laravel 5.5 中文文档](https://laravel-china.org/docs/laravel/5.5) —— Laravel 5.5 中文文档
-* [Laravel 5.6 中文文档翻译](https://zhuanlan.zhihu.com/p/34464172) —— Laravel 5.6 中文文档翻译完成，译者 60 人，耗时 10 天
-* [Laravel 5.7 中文文档](https://laravel-china.org/index.php/docs/laravel/5.7) —— Laravel 5.7 中文文档
+* [Laravel 5.1 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.1 中文文档
+* [Laravel 5.2 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.2 中文文档
+* [Laravel 5.3 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.3 中文文档
+* [Laravel 5.4 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.4 中文文档
+* [Laravel 5.5 中文文档](https://learnku.com/docs/laravel/5.5) —— Laravel 5.5 中文文档
+* [Laravel 5.6 中文文档](https://learnku.com/docs/laravel/5.6) —— Laravel 5.6 中文文档
+* [Laravel 5.7 中文文档](https://learnku.com/docs/laravel/5.7) —— Laravel 5.7 中文文档
+* [Laravel 5.8 中文文档](https://learnku.com/docs/laravel/5.8) —— Laravel 5.8 中文文档
 
 ### 书籍
 * [《Laravel 入门教程》](https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial) —— Laravel 第一本中文新手书籍《Laravel 入门教程》
