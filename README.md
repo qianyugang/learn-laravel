@@ -83,6 +83,7 @@
 * [laravel5.6 零基础入门](https://www.udemy.com/laravel56/) —— 轻松实战入门
 * [PHP with Laravel for beginners - Become a Master in Laravel](https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/) —— Learn to master Laravel to make advanced applications like the real CMS app we build on this course 收费
 * [100 Best Laravel Videos](http://meta-guide.com/videography/100-best-laravel-videos) —— youtube
+* [Laravel / PHP 扩展包视频教程](https://learnku.com/courses/laravel-package) —— Laravel / PHP 扩展包视频教程 付费
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
