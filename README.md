@@ -23,6 +23,13 @@
 * [Laravel 5.6 中文文档](https://learnku.com/docs/laravel/5.6) —— Laravel 5.6 中文文档
 * [Laravel 5.7 中文文档](https://learnku.com/docs/laravel/5.7) —— Laravel 5.7 中文文档
 * [Laravel 5.8 中文文档](https://learnku.com/docs/laravel/5.8) —— Laravel 5.8 中文文档
+* [Lumen 中文文档 5.1](https://learnku.com/docs/lumen/5.1) —— Lumen 中文文档 5.1
+* [Lumen 中文文档 5.2](https://learnku.com/docs/lumen/5.2) —— Lumen 中文文档 5.2 
+* [Lumen 中文文档 5.3](https://learnku.com/docs/lumen/5.3) —— Lumen 中文文档 5.3 
+* [Lumen 中文文档 5.4](https://learnku.com/docs/lumen/5.4) —— Lumen 中文文档 5.4 
+* [Lumen 中文文档 5.5](https://learnku.com/docs/lumen/5.5) —— Lumen 中文文档 5.5 
+* [Lumen 中文文档 5.6](https://learnku.com/docs/lumen/5.6) —— Lumen 中文文档 5.6 
+* [Lumen 中文文档 5.7](https://learnku.com/docs/lumen/5.7) —— Lumen 中文文档 5.7 
 
 ### 书籍
 * [《Laravel 入门教程》](https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial) —— Laravel 第一本中文新手书籍《Laravel 入门教程》
