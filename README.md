@@ -84,6 +84,9 @@
 * [PHP with Laravel for beginners - Become a Master in Laravel](https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/) —— Learn to master Laravel to make advanced applications like the real CMS app we build on this course 收费
 * [100 Best Laravel Videos](http://meta-guide.com/videography/100-best-laravel-videos) —— youtube
 * [Laravel / PHP 扩展包视频教程](https://learnku.com/courses/laravel-package) —— Laravel / PHP 扩展包视频教程 付费
+* [全方位解读Laravel框架及实战视频教程（内附项目源码+笔记）](https://edu.51cto.com/course/10842.html?source=so) —— 课程目标： 全方位解读Laravel框架及实战 付费
+* [Memcached在PHP和Laravel中的使用视频课程](https://edu.51cto.com/course/8706.html?source=so) —— 课程目标： 学习Memcached服务器的安装和基本使用，学习PHP连接Memcached服务的基本方法 付费
+* [Laravel实战微信趣味项目2019.PHP](https://edu.51cto.com/course/17687.html?source=so) —— 课程目标： 课程目标： 了解Laravel各组件的基本使用、微信公众号的对接，帮助您跨入Laravel和公众号的开发大门 付费
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
