@@ -88,6 +88,7 @@
 * [Memcached在PHP和Laravel中的使用视频课程](https://edu.51cto.com/course/8706.html?source=so) —— 课程目标： 学习Memcached服务器的安装和基本使用，学习PHP连接Memcached服务的基本方法 付费
 * [Laravel实战微信趣味项目2019.PHP](https://edu.51cto.com/course/17687.html?source=so) —— 课程目标： 课程目标： 了解Laravel各组件的基本使用、微信公众号的对接，帮助您跨入Laravel和公众号的开发大门 付费
 * [最强框架Laravel基础入门视频教程(全48讲)](https://www.bilibili.com/video/av36494040/) —— bilibili.com 
+* [Laravel Vuejs 实战：开发知乎](https://www.codecasts.com/series/build-a-zhihu-website-with-laravel) —— 从头开始创建一个全新的 laravel 项目并对开发环境进行可行的配置，使得 zhihu 的实战项目可以运行起来
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
