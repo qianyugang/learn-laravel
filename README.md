@@ -56,6 +56,11 @@
 * [PHP FPM源代码反刍品味之六](https://www.jianshu.com/p/dac223d7d9ad) —— PHP FPM源代码反刍品味之六：IO事件机制的封装
 * [Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) —— Laravel核心代码学习
 * [Laravel 源码分析](https://58hualong.com/course/14/Laravel-yuan-ma-fen-xi) —— Laravel源码分析【已完结】视频教程 收费
+* [Laravel 框架门面 Facade 源码分析](https://learnku.com/articles/4684/analysis-of-facade-source-code-of-laravel-frame) —— 框架门面 Facade 源码分析
+* [Laravel 核心——IoC 服务容器](https://learnku.com/articles/4698/laravel-core-ioc-service-container) —— oC 服务容器
+* [Laravel 核心——IoC 服务容器源码解析（服务器绑定）](https://learnku.com/articles/4699/laravel-core-ioc-service-container-source-parsing-server-binding) —— IoC 服务容器源码解析（服务器绑定）
+* [Laravel 核心——IoC 服务容器源码解析（服务器解析）](https://learnku.com/articles/4700/laravel-core-source-parsing-of-ioc-service-container-server-parsing) —— IoC 服务容器源码解析（服务器解析）
+* [Laravel 核心——服务容器的细节特性](https://learnku.com/articles/4870/the-laravel-core-the-details-of-the-service-container) —— 服务容器的细节特性
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程-收费
