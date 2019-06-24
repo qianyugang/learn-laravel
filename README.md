@@ -71,6 +71,7 @@
 * [Laravel 核心——IoC 服务容器源码解析（服务器绑定）](https://learnku.com/articles/4699/laravel-core-ioc-service-container-source-parsing-server-binding) —— IoC 服务容器源码解析（服务器绑定）
 * [Laravel 核心——IoC 服务容器源码解析（服务器解析）](https://learnku.com/articles/4700/laravel-core-source-parsing-of-ioc-service-container-server-parsing) —— IoC 服务容器源码解析（服务器解析）
 * [Laravel 核心——服务容器的细节特性](https://learnku.com/articles/4870/the-laravel-core-the-details-of-the-service-container) —— 服务容器的细节特性
+* [laravel 源码详解](https://leoyang90.gitbooks.io/laravel-source-analysis/content/) —— 本项目针对 laravel 5.4 各个重要模块的源码进行了较为详尽的分析，希望给想要了解 laravel 底层原理与源码的同学一些指引。
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程 *（收费）*
