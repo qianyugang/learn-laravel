@@ -126,6 +126,7 @@
 * [Laravel Tutorial: Step by Step Guide to Building Your First Laravel Application](https://laravel-news.com/your-first-laravel-application) —— Step by Step Guide to Building Your First Laravel Application
 * [How to Learn Laravel](https://medium.com/@hayreddintuzel/how-to-learn-laravel-a-roadmap-from-beginner-to-advanced-5414640362e8) —— A roadmap from beginner to advanced — 2019
 * [Learn Laravel (Best Laravel Tutorials for Beginners)](https://medium.com/hackr-io/learn-laravel-best-laravel-tutorials-for-beginners-b2843d2db263) —— Best Laravel Tutorials for Beginners
+* [Laravel 5.8 CRUD Tutorial With Example For Beginners](https://appdividend.com/2019/03/08/laravel-5-8-crud-tutorial-with-example-for-beginners/) —— Laravel 5.8 CRUD Tutorial With Example For Beginners is today’s topic. 
 
 ## Laravel 开源项目集
 ### 原型项目
