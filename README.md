@@ -44,6 +44,8 @@
 * [L04 Laravel 教程 - 微信小程序从零到发布 ( Laravel 5.5) ](https://learnku.com/courses/laravel-weapp/5.5) —— 从第一行代码，到微信小程序的提交发布（*收费*）
 * [L05 Laravel 教程 - 电商实战 ( Laravel 5.8)](https://learnku.com/courses/laravel-shop/5.8) —— 手把手带你开发一个电商项目（*收费*）
 * [L06 Laravel 教程 - 电商进阶 ( Laravel 5.8 ) ](https://learnku.com/courses/ecommerce-advance/5.8) —— 手把手带你开发一个电商项目进阶（*收费*）
+* [Laravel: Up and Running-A Framework for Building Modern PHP Apps](https://book.douban.com/subject/26801718/) —— 作者: Matt Stauffer 
+* [Laravel入门与实战：构建主流PHP应用开发框架](https://book.douban.com/subject/30190190/) —— <《Laravel: Up and Running》的中文译本
 
 ### 源码解读
 * [Laravel 源码解读](https://www.jianshu.com/p/b7ea3f2a55f6) —— yii/laravel 的源码质量超高, phper 一定要好好读一读
