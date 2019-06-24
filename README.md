@@ -38,12 +38,12 @@
 * [《Mastering Laravel》](https://www.packtpub.com/web-development/mastering-laravel) —— Develop robust modern web-based software applications and RESTful APIs with Laravel, one of the hottest PHP frameworks
 * [《Learning Laravel's Eloquent》](https://www.packtpub.com/web-development/learning-laravels-eloquent) —— Develop amazing data-based applications with Eloquent, the Laravel framework ORM
 * [《Laravel 5 Essentials》](https://www.packtpub.com/web-development/laravel-5-essentials) —— Explore the fundamentals of Laravel, one of the most expressive and robust PHP frameworks available
-* [L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.8 ) ](https://learnku.com/courses/laravel-essential-training/5.8) —— 本书将教你如何使用 Laravel 一步一步构建一个类似新浪微博的应用，让你从实际开发中体会到 Laravel 开发的敏捷、愉悦与轻松。（*收费*）
-* [L02 Laravel 教程 - Web 开发实战进阶 ( Laravel 5.8 ) ](https://learnku.com/courses/laravel-intermediate-training/5.8) —— 在 Laravel 进阶课程中，我们会创建一个论坛系统。（*收费*）
-* [L03 Laravel 教程 - 实战构架 API 服务器 ( Laravel 5.8) ](https://learnku.com/courses/laravel-advance-training/5.8) —— 本书主要专注于 App 的后端 API 服务器开发。（*收费*）
-* [L04 Laravel 教程 - 微信小程序从零到发布 ( Laravel 5.5) ](https://learnku.com/courses/laravel-weapp/5.5) —— 从第一行代码，到微信小程序的提交发布（*收费*）
-* [L05 Laravel 教程 - 电商实战 ( Laravel 5.8)](https://learnku.com/courses/laravel-shop/5.8) —— 手把手带你开发一个电商项目（*收费*）
-* [L06 Laravel 教程 - 电商进阶 ( Laravel 5.8 ) ](https://learnku.com/courses/ecommerce-advance/5.8) —— 手把手带你开发一个电商项目进阶（*收费*）
+* [L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.8 ) ](https://learnku.com/courses/laravel-essential-training/5.8) —— 本书将教你如何使用 Laravel 一步一步构建一个类似新浪微博的应用，让你从实际开发中体会到 Laravel 开发的敏捷、愉悦与轻松。*（收费）*
+* [L02 Laravel 教程 - Web 开发实战进阶 ( Laravel 5.8 ) ](https://learnku.com/courses/laravel-intermediate-training/5.8) —— 在 Laravel 进阶课程中，我们会创建一个论坛系统。*（收费）*
+* [L03 Laravel 教程 - 实战构架 API 服务器 ( Laravel 5.8) ](https://learnku.com/courses/laravel-advance-training/5.8) —— 本书主要专注于 App 的后端 API 服务器开发。*（收费）*
+* [L04 Laravel 教程 - 微信小程序从零到发布 ( Laravel 5.5) ](https://learnku.com/courses/laravel-weapp/5.5) —— 从第一行代码，到微信小程序的提交发布*（收费）*
+* [L05 Laravel 教程 - 电商实战 ( Laravel 5.8)](https://learnku.com/courses/laravel-shop/5.8) —— 手把手带你开发一个电商项目*（收费）*
+* [L06 Laravel 教程 - 电商进阶 ( Laravel 5.8 ) ](https://learnku.com/courses/ecommerce-advance/5.8) —— 手把手带你开发一个电商项目进阶*（收费）*
 * [Laravel: Up and Running](https://book.douban.com/subject/26801718/) —— A Framework for Building Modern PHP Apps 作者: Matt Stauffer 
 * [Laravel入门与实战](https://book.douban.com/subject/30190190/) —— 构建主流PHP应用开发框架《Laravel: Up and Running》的中文译本
 * [Design Patterns in PHP and Laravel](https://book.douban.com/subject/26964602/) —— 作者: Kelt Dockins 
@@ -65,7 +65,7 @@
 * [PHP FPM源代码反刍品味之五](https://www.jianshu.com/p/e3074fcf1b9d) —— PHP FPM源代码反刍品味之五：信号signal处理
 * [PHP FPM源代码反刍品味之六](https://www.jianshu.com/p/dac223d7d9ad) —— PHP FPM源代码反刍品味之六：IO事件机制的封装
 * [Learning_Laravel_Kernel](https://github.com/kevinyan815/Learning_Laravel_Kernel) —— Laravel核心代码学习
-* [Laravel 源码分析](https://58hualong.com/course/14/Laravel-yuan-ma-fen-xi) —— Laravel源码分析【已完结】视频教程 (*收费*)
+* [Laravel 源码分析](https://58hualong.com/course/14/Laravel-yuan-ma-fen-xi) —— Laravel源码分析【已完结】视频教程 *（收费）*
 * [Laravel 框架门面 Facade 源码分析](https://learnku.com/articles/4684/analysis-of-facade-source-code-of-laravel-frame) —— 框架门面 Facade 源码分析
 * [Laravel 核心——IoC 服务容器](https://learnku.com/articles/4698/laravel-core-ioc-service-container) —— oC 服务容器
 * [Laravel 核心——IoC 服务容器源码解析（服务器绑定）](https://learnku.com/articles/4699/laravel-core-ioc-service-container-source-parsing-server-binding) —— IoC 服务容器源码解析（服务器绑定）
@@ -73,19 +73,19 @@
 * [Laravel 核心——服务容器的细节特性](https://learnku.com/articles/4870/the-laravel-core-the-details-of-the-service-container) —— 服务容器的细节特性
 
 ### 视频教程
-* [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程 (*收费*)
+* [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程 *（收费）*
 * [laravist-free](https://laracasts.com/tags/free) —— 免费
 * [laravist-free laravel](https://laracasts.com/series/laravel-from-scratch) —— 免费
 * [zexeo.com](http://zexeo.com/) —— Laravel 4 快速上手系列教程
 * [Laravel 5 框架闯关记](http://www.lampym.com/course/29) —— Laravel 5 框架闯关记-入门篇
 * [laracon2013](https://www.youtube.com/watch?v=JyBol0X-NlU&list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN) —— 墙外
 * [laracon2014](http://userscape.com/laracon/2014/) —— 墙外
-* [What’s New in Laravel 4](https://code.tutsplus.com/courses/whats-new-in-laravel-4) —— tutsplus.com (*收费*)
+* [What’s New in Laravel 4](https://code.tutsplus.com/courses/whats-new-in-laravel-4) —— tutsplus.com *（收费）*
 * [Laravel 4 Mastery by Jeffrey Way](http://code.tutsplus.com/tutorials/laravel-4-mastery--net-31233) —— tutsplus.com
 * [Laravel 3 Essentials](http://www.tudou.com/plcover/XCJTpoABmUA/) —— 
 * [Rails or Laravel: Building an App Twice](https://code.tutsplus.com/courses/rails-or-laravel-building-an-app-twice) —— 
 * [Arjun Yonjan](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
-* [laravel 框架项目实战课](http://www.ydma.cn/course/138) —— ydma.cn (*收费*)
+* [laravel 框架项目实战课](http://www.ydma.cn/course/138) —— ydma.cn *（收费）*
 * [轻松学会 laravel 系列 ](http://www.imooc.com/search/?words=laravel) —— 慕课网
 * [laravel 实战 ](http://www.maiziedu.com/course/649/) —— 麦子学院
 * [Laravel：地球上最好用的PHP框架 - 入门篇](http://www.maiziedu.com/course/491/) —— 麦子学院
@@ -94,18 +94,18 @@
 * [Laravel 实用 package 推荐](https://www.codecasts.com/series/awesome-laravel-packages) —— codecasts.com
 * [laravel 开发微信公众号](https://www.codecasts.com/series/peak-into-wechat-development-using-laravel) —— codecasts.com
 * [轻松使用 Laravel 队列](https://www.codecasts.com/series/laravel-queue-is-awesome) —— codecasts.com
-* [Projects in Laravel: Learn Laravel Building 10 Projects](https://www.udemy.com/projects-in-laravel-learn-laravel-building-10-projects/) —— A complete course to master latest Laravel 5.4 web framework (*收费*)
+* [Projects in Laravel: Learn Laravel Building 10 Projects](https://www.udemy.com/projects-in-laravel-learn-laravel-building-10-projects/) —— A complete course to master latest Laravel 5.4 web framework*（收费）*
 * [laravel5.6 零基础入门](https://www.udemy.com/laravel56/) —— 轻松实战入门
-* [PHP with Laravel for beginners - Become a Master in Laravel](https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/) —— Learn to master Laravel to make advanced applications like the real CMS app we build on this course (*收费*)
+* [PHP with Laravel for beginners - Become a Master in Laravel](https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/) —— Learn to master Laravel to make advanced applications like the real CMS app we build on this course*（收费）*
 * [100 Best Laravel Videos](http://meta-guide.com/videography/100-best-laravel-videos) —— youtube
-* [Laravel / PHP 扩展包视频教程](https://learnku.com/courses/laravel-package) —— Laravel / PHP 扩展包视频教程 付费
-* [全方位解读Laravel框架及实战视频教程（内附项目源码+笔记）](https://edu.51cto.com/course/10842.html?source=so) —— 课程目标： 全方位解读Laravel框架及实战 付费
-* [Memcached在PHP和Laravel中的使用视频课程](https://edu.51cto.com/course/8706.html?source=so) —— 课程目标： 学习Memcached服务器的安装和基本使用，学习PHP连接Memcached服务的基本方法 付费
-* [Laravel实战微信趣味项目2019.PHP](https://edu.51cto.com/course/17687.html?source=so) —— 课程目标： 课程目标： 了解Laravel各组件的基本使用、微信公众号的对接，帮助您跨入Laravel和公众号的开发大门 付费
+* [Laravel / PHP 扩展包视频教程](https://learnku.com/courses/laravel-package) —— Laravel / PHP 扩展包视频教程 *（收费）*
+* [全方位解读Laravel框架及实战视频教程（内附项目源码+笔记）](https://edu.51cto.com/course/10842.html?source=so) —— 课程目标： 全方位解读Laravel框架及实战 *（收费）*
+* [Memcached在PHP和Laravel中的使用视频课程](https://edu.51cto.com/course/8706.html?source=so) —— 课程目标： 学习Memcached服务器的安装和基本使用，学习PHP连接Memcached服务的基本方法 *（收费）*
+* [Laravel实战微信趣味项目2019.PHP](https://edu.51cto.com/course/17687.html?source=so) —— 课程目标： 课程目标： 了解Laravel各组件的基本使用、微信公众号的对接，帮助您跨入Laravel和公众号的开发大门 *（收费）*
 * [最强框架Laravel基础入门视频教程(全48讲)](https://www.bilibili.com/video/av36494040/) —— bilibili.com 
 * [Laravel Vuejs 实战：开发知乎](https://www.codecasts.com/series/build-a-zhihu-website-with-laravel) —— 从头开始创建一个全新的 laravel 项目并对开发环境进行可行的配置，使得 zhihu 的实战项目可以运行起来
-* [Laravel 2019, the complete guide with real world projects](https://www.udemy.com/best-laravel/?ranMID=39197&ranEAID=R7BSs79ua1Y&ranSiteID=R7BSs79ua1Y-wJWXdMi23Sd4rFxdh21Zuw&LSNPUBID=R7BSs79ua1Y) —— Build simple to advanced web applications using the PHP's most popular web framework - Completely re-recorded for 5.8 (*收费*)
-* [RESTful API with Laravel: Build a real API with Laravel](https://www.udemy.com/restful-api-with-laravel-php-homestead-passport-hateoas/?ranMID=39197&ranEAID=R7BSs79ua1Y&ranSiteID=R7BSs79ua1Y-81xaq4b8kNUt.guqIEH02g&LSNPUBID=R7BSs79ua1Y) —— Build a RESTful API for a market system using Laravel and dominates the challenging RESTful skills with Laravel (*收费*)
+* [Laravel 2019, the complete guide with real world projects](https://www.udemy.com/best-laravel/?ranMID=39197&ranEAID=R7BSs79ua1Y&ranSiteID=R7BSs79ua1Y-wJWXdMi23Sd4rFxdh21Zuw&LSNPUBID=R7BSs79ua1Y) —— Build simple to advanced web applications using the PHP's most popular web framework - Completely re-recorded for 5.8 *（收费）*
+* [RESTful API with Laravel: Build a real API with Laravel](https://www.udemy.com/restful-api-with-laravel-php-homestead-passport-hateoas/?ranMID=39197&ranEAID=R7BSs79ua1Y&ranSiteID=R7BSs79ua1Y-81xaq4b8kNUt.guqIEH02g&LSNPUBID=R7BSs79ua1Y) —— Build a RESTful API for a market system using Laravel and dominates the challenging RESTful skills with Laravel *（收费）*
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/) —— 【最适合中国人的Laravel教程】系列 - 岁寒
