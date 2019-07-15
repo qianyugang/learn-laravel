@@ -108,6 +108,7 @@
 * [Laravel Vuejs 实战：开发知乎](https://www.codecasts.com/series/build-a-zhihu-website-with-laravel) —— 从头开始创建一个全新的 laravel 项目并对开发环境进行可行的配置，使得 zhihu 的实战项目可以运行起来
 * [Laravel 2019, the complete guide with real world projects](https://www.udemy.com/best-laravel/?ranMID=39197&ranEAID=R7BSs79ua1Y&ranSiteID=R7BSs79ua1Y-wJWXdMi23Sd4rFxdh21Zuw&LSNPUBID=R7BSs79ua1Y) —— Build simple to advanced web applications using the PHP's most popular web framework - Completely re-recorded for 5.8 *（收费）*
 * [RESTful API with Laravel: Build a real API with Laravel](https://www.udemy.com/restful-api-with-laravel-php-homestead-passport-hateoas/?ranMID=39197&ranEAID=R7BSs79ua1Y&ranSiteID=R7BSs79ua1Y-81xaq4b8kNUt.guqIEH02g&LSNPUBID=R7BSs79ua1Y) —— Build a RESTful API for a market system using Laravel and dominates the challenging RESTful skills with Laravel *（收费）*
+* [Laravel 5.8 正式发布，一起跟新特性开开杠](https://www.bilibili.com/video/av44988880/) —— bilibili
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
