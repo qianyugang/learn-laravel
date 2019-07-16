@@ -166,6 +166,10 @@
 * [bjyblog](https://github.com/baijunyao/laravel-bjyblog) —— 基于 laravel 开发的的 blog baijunyao.com，这个项目是把 thinkphp-bjyblog 用 laravel 框架重构后的产物
 * [PJ Blog](https://github.com/jcc/blog) —— 一个由 Laravel 5.* 和 Vuejs 2.* 建立的开源博客系统。pigjian.com
 
+### 电子商务
+* [Antvel](https://laravelacademy.org/post/3793.html) —— Antvel 是一个基于 Laravel 5.* 开发的开源电子商务项目
+* [Bagisto](https://laravelacademy.org/post/19446.html) —— 基于 Laravel + Vue.js 构建的开源电商系统 
+
 ## 其他
 * [Laravel Tricks](http://laravelacademy.org/post/681.html) ——   Laravel 小技巧&小贴士
 * [Invoice Ninja](http://laravelacademy.org/post/1117.html) ——   基于 Laravel 构建的开源发票及时间跟踪应用
