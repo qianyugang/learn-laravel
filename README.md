@@ -135,6 +135,7 @@
 ### 原型项目
 * [Laravel 5 Boilerplate](http://laravelacademy.org/post/1359.html) —— 基于当前Laravel最新版本（Laravel 5.1.*）并集成Boilerplate的项目
 * [Laravel 5 Angular Material Starter](http://laravelacademy.org/post/1426.html) —— 一个Laravel 5.1和AngularJS的原型项目
+* [Someline Starter](https://laravelacademy.org/post/6408.html) ——  基于Laravel 5和Vue.js，用于快速构架RESTful API和Web应用的原型项目
 
 ### CMS
 * [Bootstrap CMS](http://laravelacademy.org/post/709.html) —— Laravel 5.1驱动的功能强大的CMS
@@ -153,6 +154,7 @@
 ### 项目管理
 * [92five app](http://laravelacademy.org/post/1045.html) —— 基于 Laravel框架 & Backbone JS 构建，是一个自托管的、基于web的项目管理应用
 * [Scrumwala](http://laravelacademy.org/post/956.html) ——  基于Laravel5，项目管理应用
+* [Ribbbon](https://laravelacademy.org/post/7341.html) —— 基于Laravel 5.1和Vue.js构建的开源项目管理系统
 
 ### 博客
 * [Wardrobe](http://laravelacademy.org/post/1203.html) ——  专注于写作的最小化博客平台
