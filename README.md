@@ -88,7 +88,9 @@
 * [Rails or Laravel: Building an App Twice](https://code.tutsplus.com/courses/rails-or-laravel-building-an-app-twice) —— 
 * [Arjun Yonjan](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng/playlists) —— 墙外
 * [laravel 框架项目实战课](http://www.ydma.cn/course/138) —— ydma.cn *（收费）*
-* [轻松学会 laravel 系列 ](http://www.imooc.com/search/?words=laravel) —— 慕课网
+* [轻松学会Laravel-基础篇](https://www.imooc.com/view/697) —— 慕课网
+* [轻松学会Laravel-表单篇](https://www.imooc.com/view/699) —— 慕课网
+* [轻松学会Laravel-高级篇](https://www.imooc.com/view/702) —— 慕课网
 * [laravel 实战 ](http://www.maiziedu.com/course/649/) —— 麦子学院
 * [Laravel：地球上最好用的PHP框架 - 入门篇](http://www.maiziedu.com/course/491/) —— 麦子学院
 * [Laravel Vue 开发 SPA 应用](https://www.codecasts.com/series/laravel-vuejs-spa) —— codecasts.com
