@@ -112,6 +112,7 @@
 * [RESTful API with Laravel: Build a real API with Laravel](https://www.udemy.com/restful-api-with-laravel-php-homestead-passport-hateoas/?ranMID=39197&ranEAID=R7BSs79ua1Y&ranSiteID=R7BSs79ua1Y-81xaq4b8kNUt.guqIEH02g&LSNPUBID=R7BSs79ua1Y) —— Build a RESTful API for a market system using Laravel and dominates the challenging RESTful skills with Laravel *（收费）*
 * [Laravel 5.8 正式发布，一起跟新特性开开杠](https://www.bilibili.com/video/av44988880/) —— bilibili.com
 * [Laravel5.4快速开发简书网站](https://coding.imooc.com/class/111.html) —— 本课程使用大量Laravel基础及高级组件，结合Mysql异步消息队列、ElasticSearch搜索引擎、Debugbar调试利器、Laravel性能优化等技术开发前后台完整的社交网站“简书” 。慕课网 *（收费）*
+* [Laravel 后端实战 - 共享单车项目](https://www.jikexueyuan.com/course/2702.html) —— 共享单车是目前很火的一个应用，本课程将会讲解共享单车的一些特性，并且使用PHP Laravel 5.4 框架来快速搭建共享单车的后端服务。极客学院*（收费）*
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
