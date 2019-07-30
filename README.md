@@ -113,6 +113,8 @@
 * [Laravel 5.8 正式发布，一起跟新特性开开杠](https://www.bilibili.com/video/av44988880/) —— bilibili.com
 * [Laravel5.4快速开发简书网站](https://coding.imooc.com/class/111.html) —— 本课程使用大量Laravel基础及高级组件，结合Mysql异步消息队列、ElasticSearch搜索引擎、Debugbar调试利器、Laravel性能优化等技术开发前后台完整的社交网站“简书” 。慕课网 *（收费）*
 * [Laravel 后端实战 - 共享单车项目](https://www.jikexueyuan.com/course/2702.html) —— 共享单车是目前很火的一个应用，本课程将会讲解共享单车的一些特性，并且使用PHP Laravel 5.4 框架来快速搭建共享单车的后端服务。极客学院 *（收费）*
+* [Laravel5.8入门实战-安全与优化](https://study.163.com/course/introduction/1209192843.htm) —— 使用Laravel目前最新版本（5.8）来开发一个企业网站项目。主要以快速Laravel入门为主，同时还会介绍企业网站安全及如何防范和企业网站基本SEO优化。网易云课堂 *（收费）*
+* [Laravel & Elastic全文搜索实战](https://study.163.com/course/introduction/1004832038.htm) —— 希望掌握高级搜索、大数据统计分析的入门与初学者。 网易云课堂 *（收费）* 
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
