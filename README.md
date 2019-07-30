@@ -115,6 +115,9 @@
 * [Laravel 后端实战 - 共享单车项目](https://www.jikexueyuan.com/course/2702.html) —— 共享单车是目前很火的一个应用，本课程将会讲解共享单车的一些特性，并且使用PHP Laravel 5.4 框架来快速搭建共享单车的后端服务。极客学院 *（收费）*
 * [Laravel5.8入门实战-安全与优化](https://study.163.com/course/introduction/1209192843.htm) —— 使用Laravel目前最新版本（5.8）来开发一个企业网站项目。主要以快速Laravel入门为主，同时还会介绍企业网站安全及如何防范和企业网站基本SEO优化。网易云课堂 *（收费）*
 * [Laravel & Elastic全文搜索实战](https://study.163.com/course/introduction/1004832038.htm) —— 希望掌握高级搜索、大数据统计分析的入门与初学者。 网易云课堂 *（收费）* 
+* [Laravel框架快速入门到精通](https://study.163.com/course/introduction/1209346815.htm) —— 适用：有PHP基础知识。网易云课堂 *（收费）*
+* [Laravel优雅实战入门：第二版](https://study.163.com/course/introduction/1003163020.htm) —— laravel入门及进阶必学，不论你是刚听说laravel，对之向往，还是有了一定基础，迫切想进阶。网易云课堂 *（收费）* 
+* [Laravel&Vue深度整合实战第二版](https://study.163.com/course/introduction/1003227034.htm) —— 带你学习vue的初中高级+国际潮流,同时还有跟laravel结合的优雅方式。网易云课堂 *（收费）* 
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
