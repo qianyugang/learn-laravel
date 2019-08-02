@@ -100,7 +100,7 @@
 * [轻松使用 Laravel 队列](https://www.codecasts.com/series/laravel-queue-is-awesome) —— codecasts.com
 * [Projects in Laravel: Learn Laravel Building 10 Projects](https://www.udemy.com/projects-in-laravel-learn-laravel-building-10-projects/) —— A complete course to master latest Laravel 5.4 web framework*（收费）*
 * [laravel5.6 零基础入门](https://www.udemy.com/laravel56/) —— 轻松实战入门
-* [PHP with Laravel for beginners - Become a Master in Laravel](https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/) —— Learn to master Laravel to make advanced applications like the real CMS app we build on this course*（收费）*
+* [PHP with Laravel for beginners - Become a Master in Laravel](https://www.udemy.com/php-with-laravel-for-beginners-become-a-master-in-laravel/) —— Learn to master Laravel to make advanced applications like the real CMS app we build on this course *（收费）*
 * [100 Best Laravel Videos](http://meta-guide.com/videography/100-best-laravel-videos) —— youtube
 * [Laravel / PHP 扩展包视频教程](https://learnku.com/courses/laravel-package) —— Laravel / PHP 扩展包视频教程 *（收费）*
 * [全方位解读Laravel框架及实战视频教程（内附项目源码+笔记）](https://edu.51cto.com/course/10842.html?source=so) —— 课程目标： 全方位解读Laravel框架及实战 *（收费）*
