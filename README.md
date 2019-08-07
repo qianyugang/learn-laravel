@@ -73,6 +73,7 @@
 * [Laravel 核心——服务容器的细节特性](https://learnku.com/articles/4870/the-laravel-core-the-details-of-the-service-container) —— 服务容器的细节特性
 * [laravel 源码详解](https://leoyang90.gitbooks.io/laravel-source-analysis/content/) —— 本项目针对 laravel 5.4 各个重要模块的源码进行了较为详尽的分析，希望给想要了解 laravel 底层原理与源码的同学一些指引。
 * [Laravel 源码分析——看一次 Http 请求到响应](https://juejin.im/entry/591ab0a8128fe1005cded993) —— 本文就尽可能的提取Laravel处理http请求过程中一些关键的路径跟大家分享一下Laravel框架工作的原理
+* [Laravel 核心概念讲解-深入讲解Service Contaier、Service Provider、Facades、Contracts之间的关系](https://www.bilibili.com/video/av35887442) —— 深入讲解Service Contaier、Service Provider、Facades、Contracts之间的关系。bilibili.com
 
 ### 视频教程
 * [laravist.com](https://laravist.com/) —— 最干货Laravel视频教程和一系列的Laravel文章教程 *（收费）*
