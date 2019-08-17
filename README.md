@@ -119,6 +119,7 @@
 * [Laravel框架快速入门到精通](https://study.163.com/course/introduction/1209346815.htm) —— 适用：有PHP基础知识。网易云课堂 *（收费）*
 * [Laravel优雅实战入门：第二版](https://study.163.com/course/introduction/1003163020.htm) —— laravel入门及进阶必学，不论你是刚听说laravel，对之向往，还是有了一定基础，迫切想进阶。网易云课堂 *（收费）* 
 * [Laravel&Vue深度整合实战第二版](https://study.163.com/course/introduction/1003227034.htm) —— 带你学习vue的初中高级+国际潮流,同时还有跟laravel结合的优雅方式。网易云课堂 *（收费）* 
+* [Laravel Echo 开发实时应用](https://geixue.com/course/develope-realtime-app-with-laravel-echo) —— Laravel Echo 在开发实时刷新应用的时候非常的强大，它把背后复杂的功能封装成一套优雅的接口，我们可以借助 Laravel 的 Event 系统，结合 Broadcasting 既可以开发一个实时的 Web 应用。 *（收费）* 
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
@@ -140,6 +141,7 @@
 * [How to Learn Laravel](https://medium.com/@hayreddintuzel/how-to-learn-laravel-a-roadmap-from-beginner-to-advanced-5414640362e8) —— A roadmap from beginner to advanced — 2019
 * [Learn Laravel (Best Laravel Tutorials for Beginners)](https://medium.com/hackr-io/learn-laravel-best-laravel-tutorials-for-beginners-b2843d2db263) —— Best Laravel Tutorials for Beginners
 * [Laravel 5.8 CRUD Tutorial With Example For Beginners](https://appdividend.com/2019/03/08/laravel-5-8-crud-tutorial-with-example-for-beginners/) —— Laravel 5.8 CRUD Tutorial With Example For Beginners is today’s topic. 
+
 
 ## Laravel 开源项目集
 ### 原型项目
