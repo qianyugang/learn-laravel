@@ -192,4 +192,6 @@
 * [Deployer](http://laravelacademy.org/post/1681.html) ——   基于 Laravel 5.1 的、免费的、开源的 PHP 应用部署工具
 * [20 Laravel Eloquent Tips and Tricks](https://laravel-news.com/eloquent-tips-tricks) —— Laravel Eloquent Tips
 * [Laravel Daily: Laravel Tips & Tutorials](https://laraveldaily.com/) —— Laravel Daily project has a goal of helping developers to learn some new Laravel trick (or remember an old one) every day.
+* [Orgmanager](https://github.com/orgmanager/orgmanager) —— GitHub 组织的邀请系统 Invite System for GitHub Organizations
+* [timegrid](https://github.com/timegridio/timegrid) ——基于Laravel PHP Framework的免费开源在线约会平台。Free, open-source, online appointments platform based on Laravel PHP Framework.
 
