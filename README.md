@@ -193,5 +193,5 @@
 * [20 Laravel Eloquent Tips and Tricks](https://laravel-news.com/eloquent-tips-tricks) —— Laravel Eloquent Tips
 * [Laravel Daily: Laravel Tips & Tutorials](https://laraveldaily.com/) —— Laravel Daily project has a goal of helping developers to learn some new Laravel trick (or remember an old one) every day.
 * [Orgmanager](https://github.com/orgmanager/orgmanager) —— GitHub 组织的邀请系统 Invite System for GitHub Organizations
-* [timegrid](https://github.com/timegridio/timegrid) ——基于Laravel PHP Framework的免费开源在线约会平台。Free, open-source, online appointments platform based on Laravel PHP Framework.
-
+* [timegrid](https://github.com/timegridio/timegrid) —— 基于Laravel PHP Framework的免费开源在线约会平台。Free, open-source, online appointments platform based on Laravel PHP Framework.
+* [支付宝SDK在Laravel5的封装](https://github.com/Latrell/Alipay/) —— 支付宝SDK在Laravel5/Lumen封装包。该拓展包想要达到在Laravel5/Lumen框架下，便捷使用支付宝的目的。
