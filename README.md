@@ -157,6 +157,7 @@
 * [LavaLite](http://laravelacademy.org/post/1227.html) —— 基于Laravel 5.1 & Bootstrap 3的内容管理系统
 * [TypiCMS](http://laravelacademy.org/post/1508.html) —— 基于 Laravel 5 构建的、支持多语言的内容管理系统
 * [Laracms](https://www.laracms.cn/) —— 一款基于 Laravel 开发的基础中文内容管理系统，可以在此基础上快速，优雅的开发实现您的需求
+* [AmilaCMS](https://github.com/AlexStack/Laravel-CMS) —— 适合整合已运中的Laravel 5.x & 6.x网站系统，可自定义数据库表前缀, 使用Bootstrap 4, 有中文语言包
 
 ### 论坛
 * [Laravel.io](http://laravelacademy.org/post/666.html) —— Laravel开发者社区
