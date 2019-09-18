@@ -145,6 +145,7 @@
 * [How to Learn Laravel](https://medium.com/@hayreddintuzel/how-to-learn-laravel-a-roadmap-from-beginner-to-advanced-5414640362e8) —— A roadmap from beginner to advanced — 2019
 * [Learn Laravel (Best Laravel Tutorials for Beginners)](https://medium.com/hackr-io/learn-laravel-best-laravel-tutorials-for-beginners-b2843d2db263) —— Best Laravel Tutorials for Beginners
 * [Laravel 5.8 CRUD Tutorial With Example For Beginners](https://appdividend.com/2019/03/08/laravel-5-8-crud-tutorial-with-example-for-beginners/) —— Laravel 5.8 CRUD Tutorial With Example For Beginners is today’s topic. 
+* [LX2 PHP 扩展包实战教程 - 从入门到发布](https://learnku.com/courses/creating-package) —— 经验丰富的 PHP 扩展包开发者带你一步步从 0 开始发布你的第一个扩展包
 
 
 ## Laravel 开源项目集
