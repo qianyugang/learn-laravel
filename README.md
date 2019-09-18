@@ -39,7 +39,10 @@
 * [《Mastering Laravel》](https://www.packtpub.com/web-development/mastering-laravel) —— Develop robust modern web-based software applications and RESTful APIs with Laravel, one of the hottest PHP frameworks
 * [《Learning Laravel's Eloquent》](https://www.packtpub.com/web-development/learning-laravels-eloquent) —— Develop amazing data-based applications with Eloquent, the Laravel framework ORM
 * [《Laravel 5 Essentials》](https://www.packtpub.com/web-development/laravel-5-essentials) —— Explore the fundamentals of Laravel, one of the most expressive and robust PHP frameworks available
+* [L01 Laravel 教程 - Web 开发实战入门 ( Laravel 6.0 ) ](https://learnku.com/courses/laravel-essential-training/6.0) —— 本书将教你如何使用 Laravel 一步一步构建一个类似新浪微博的应用，让你从实际开发中体会到 Laravel 开发的敏捷、愉悦与轻松。*（收费）*
 * [L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.8 ) ](https://learnku.com/courses/laravel-essential-training/5.8) —— 本书将教你如何使用 Laravel 一步一步构建一个类似新浪微博的应用，让你从实际开发中体会到 Laravel 开发的敏捷、愉悦与轻松。*（收费）*
+* [L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.7 ) ](https://learnku.com/courses/laravel-essential-training/5.7) —— 本书将教你如何使用 Laravel 一步一步构建一个类似新浪微博的应用，让你从实际开发中体会到 Laravel 开发的敏捷、愉悦与轻松。*（收费）*
+* [L01 Laravel 教程 - Web 开发实战入门 ( Laravel 5.5 ) ](https://learnku.com/courses/laravel-essential-training/5.5) —— 本书将教你如何使用 Laravel 一步一步构建一个类似新浪微博的应用，让你从实际开发中体会到 Laravel 开发的敏捷、愉悦与轻松。*（收费）*
 * [L02 Laravel 教程 - Web 开发实战进阶 ( Laravel 5.8 ) ](https://learnku.com/courses/laravel-intermediate-training/5.8) —— 在 Laravel 进阶课程中，我们会创建一个论坛系统。*（收费）*
 * [L03 Laravel 教程 - 实战构架 API 服务器 ( Laravel 5.8) ](https://learnku.com/courses/laravel-advance-training/5.8) —— 本书主要专注于 App 的后端 API 服务器开发。*（收费）*
 * [L04 Laravel 教程 - 微信小程序从零到发布 ( Laravel 5.5) ](https://learnku.com/courses/laravel-weapp/5.5) —— 从第一行代码，到微信小程序的提交发布 *（收费）*
