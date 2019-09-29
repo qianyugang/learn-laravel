@@ -125,6 +125,7 @@
 * [Laravel&Vue深度整合实战第二版](https://study.163.com/course/introduction/1003227034.htm) —— 带你学习vue的初中高级+国际潮流,同时还有跟laravel结合的优雅方式。网易云课堂 *（收费）* 
 * [Laravel Echo 开发实时应用](https://geixue.com/course/develope-realtime-app-with-laravel-echo) —— Laravel Echo 在开发实时刷新应用的时候非常的强大，它把背后复杂的功能封装成一套优雅的接口，我们可以借助 Laravel 的 Event 系统，结合 Broadcasting 既可以开发一个实时的 Web 应用。 *（收费）* 
 * [最新laravel商城实战视频教程](https://www.php.cn/course/871.html) —— 《最新laravel商城实战视频教程》本节课程是由云知梦录制，Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。
+* [laravel基础开发宝典视频教程](https://www.php.cn/course/809.html) —— 《laravel基础开发宝典视频教程》Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
