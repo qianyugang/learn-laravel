@@ -152,7 +152,7 @@
 * [Laravel 5.8 CRUD Tutorial With Example For Beginners](https://appdividend.com/2019/03/08/laravel-5-8-crud-tutorial-with-example-for-beginners/) —— Laravel 5.8 CRUD Tutorial With Example For Beginners is today’s topic. 
 * [LX2 PHP 扩展包实战教程 - 从入门到发布](https://learnku.com/courses/creating-package) —— 经验丰富的 PHP 扩展包开发者带你一步步从 0 开始发布你的第一个扩展包。 *（收费）* 
 * [轻松部署 Laravel 应用](https://learnku.com/blog/Wi1dcard/tags/easy-deployment-of-laravel-applications_50034) —— 本课程内，我将尽全力降低对于运维以及 Shell 专业知识的要求，以尽可能贴近国内 PHP 工程师的方式讲述部署过程。读者可跟随课程描述，边学习边操作，快速了解整套流程，一步一步地实现发布上线。
-
+* [（easywechat + Laravel 5.8）整理 PC 端微信扫码支付全过程](https://www.php.cn/phpkj/laravel/429041.html) —— PC 端微信扫码支付全过程
 
 ## Laravel 开源项目集
 ### 原型项目
