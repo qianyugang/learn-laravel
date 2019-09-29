@@ -127,6 +127,7 @@
 * [最新laravel商城实战视频教程](https://www.php.cn/course/871.html) —— 《最新laravel商城实战视频教程》本节课程是由云知梦录制，Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。
 * [laravel基础开发宝典视频教程](https://www.php.cn/course/809.html) —— 《laravel基础开发宝典视频教程》Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。
 * [Laravel开发商城前台视频教程](https://www.php.cn/course/859.html) —— 《Laravel开发商城前台视频教程》本节课程是使用PHP框架laravel开发的商城前台，对于想学习一款PHP框架的同学来说，本节视频教程是很不错的选择哦！
+* [Laravel电商项目实战课程](https://www.php.cn/course/994.html) —— 《Laravel电商项目实战课程》课程讲解了Laravel项目的开发，学完该课程，就可以模仿开发一个电商项目了
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
