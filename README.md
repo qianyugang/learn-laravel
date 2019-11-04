@@ -212,3 +212,4 @@
 * [timegrid](https://github.com/timegridio/timegrid) —— 基于Laravel PHP Framework的免费开源在线约会平台。Free, open-source, online appointments platform based on Laravel PHP Framework.
 * [支付宝SDK在Laravel5的封装](https://github.com/Latrell/Alipay/) —— 支付宝SDK在Laravel5/Lumen封装包。该拓展包想要达到在Laravel5/Lumen框架下，便捷使用支付宝的目的。
 * [A Laravel Boilerplate Project](https://github.com/rappasoft/laravel-boilerplate) —— Laravel Boilerplate (Current: Laravel 6.0) 
+* [微信 SDK for Laravel 5 / Lumen](https://github.com/overtrue/laravel-wechat) —— 微信 SDK for Laravel 5 / Lumen， 基于 overtrue/wechat
