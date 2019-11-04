@@ -154,6 +154,7 @@
 * [轻松部署 Laravel 应用](https://learnku.com/blog/Wi1dcard/tags/easy-deployment-of-laravel-applications_50034) —— 本课程内，我将尽全力降低对于运维以及 Shell 专业知识的要求，以尽可能贴近国内 PHP 工程师的方式讲述部署过程。读者可跟随课程描述，边学习边操作，快速了解整套流程，一步一步地实现发布上线。
 * [（easywechat + Laravel 5.8）整理 PC 端微信扫码支付全过程](https://www.php.cn/phpkj/laravel/429041.html) —— PC 端微信扫码支付全过程
 * [30分钟用 Laravel 实现一个博客](https://www.php.cn/phpkj/laravel/428880.html) —— 30分钟用 Laravel 实现一个简单的博客
+* [LX3 Laravel 性能优化入门](https://learnku.com/courses/laravel-performance/6.x) —— 开发 Laravel 应用时必知必会的性能优化知识*（收费）*
 
 ## Laravel 开源项目集
 ### 原型项目
