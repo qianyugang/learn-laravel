@@ -150,11 +150,13 @@
 * [How to Learn Laravel](https://medium.com/@hayreddintuzel/how-to-learn-laravel-a-roadmap-from-beginner-to-advanced-5414640362e8) —— A roadmap from beginner to advanced — 2019
 * [Learn Laravel (Best Laravel Tutorials for Beginners)](https://medium.com/hackr-io/learn-laravel-best-laravel-tutorials-for-beginners-b2843d2db263) —— Best Laravel Tutorials for Beginners
 * [Laravel 5.8 CRUD Tutorial With Example For Beginners](https://appdividend.com/2019/03/08/laravel-5-8-crud-tutorial-with-example-for-beginners/) —— Laravel 5.8 CRUD Tutorial With Example For Beginners is today’s topic. 
-* [LX2 PHP 扩展包实战教程 - 从入门到发布](https://learnku.com/courses/creating-package) —— 经验丰富的 PHP 扩展包开发者带你一步步从 0 开始发布你的第一个扩展包。 *（收费）* 
 * [轻松部署 Laravel 应用](https://learnku.com/blog/Wi1dcard/tags/easy-deployment-of-laravel-applications_50034) —— 本课程内，我将尽全力降低对于运维以及 Shell 专业知识的要求，以尽可能贴近国内 PHP 工程师的方式讲述部署过程。读者可跟随课程描述，边学习边操作，快速了解整套流程，一步一步地实现发布上线。
 * [（easywechat + Laravel 5.8）整理 PC 端微信扫码支付全过程](https://www.php.cn/phpkj/laravel/429041.html) —— PC 端微信扫码支付全过程
 * [30分钟用 Laravel 实现一个博客](https://www.php.cn/phpkj/laravel/428880.html) —— 30分钟用 Laravel 实现一个简单的博客
+* [LX1 Laravel / PHP 扩展包视频教程2019](https://learnku.com/courses/laravel-package/2019) —— 每周精选两个以上扩展包进行讲解，涵盖 PHP 和 Laravel 相关的最新、最热、最常用的扩展包.*（收费）*
+* [LX2 PHP 扩展包实战教程 - 从入门到发布](https://learnku.com/courses/creating-package) —— 经验丰富的 PHP 扩展包开发者带你一步步从 0 开始发布你的第一个扩展包。 *（收费）* 
 * [LX3 Laravel 性能优化入门](https://learnku.com/courses/laravel-performance/6.x) —— 开发 Laravel 应用时必知必会的性能优化知识*（收费）*
+
 
 ## Laravel 开源项目集
 ### 原型项目
