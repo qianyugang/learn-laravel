@@ -156,6 +156,7 @@
 * [LX1 Laravel / PHP 扩展包视频教程2019](https://learnku.com/courses/laravel-package/2019) —— 每周精选两个以上扩展包进行讲解，涵盖 PHP 和 Laravel 相关的最新、最热、最常用的扩展包.*（收费）*
 * [LX2 PHP 扩展包实战教程 - 从入门到发布](https://learnku.com/courses/creating-package) —— 经验丰富的 PHP 扩展包开发者带你一步步从 0 开始发布你的第一个扩展包。 *（收费）* 
 * [LX3 Laravel 性能优化入门](https://learnku.com/courses/laravel-performance/6.x) —— 开发 Laravel 应用时必知必会的性能优化知识*（收费）*
+* [Install Laravel 6 on a Server & Make Your App More Powerful](https://www.cloudways.com/blog/install-laravel-on-server/) —— we will demonstrate how to install Laravel 6, what are the new features introduced in it and what benefits it brings for the developers.
 * [Laravel 6 Tutorial for Beginner: Create your First To-Do App](https://www.parthpatel.net/laravel-tutorial-for-beginner/)　—— Learn Laravel in simple and easy steps starting from basic to advanced concepts by creating your first to-do application with basic CRUD functionality
 
 ## Laravel 开源项目集
