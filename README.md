@@ -31,6 +31,7 @@
 * [Lumen 中文文档 5.5](https://learnku.com/docs/lumen/5.5) —— Lumen 中文文档 5.5 
 * [Lumen 中文文档 5.6](https://learnku.com/docs/lumen/5.6) —— Lumen 中文文档 5.6 
 * [Lumen 中文文档 5.7](https://learnku.com/docs/lumen/5.7) —— Lumen 中文文档 5.7 
+* [Lumen 中文文档 6.x](https://learnku.com/docs/lumen/6.x) —— Lumen 中文文档 6.x
 
 ### 书籍
 * [《Laravel 入门教程》](https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial) —— Laravel 第一本中文新手书籍《Laravel 入门教程》
