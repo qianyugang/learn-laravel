@@ -160,6 +160,7 @@
 * [Install Laravel 6 on a Server & Make Your App More Powerful](https://www.cloudways.com/blog/install-laravel-on-server/) —— we will demonstrate how to install Laravel 6, what are the new features introduced in it and what benefits it brings for the developers.
 * [Laravel 6 Tutorial for Beginner: Create your First To-Do App](https://www.parthpatel.net/laravel-tutorial-for-beginner/)　—— Learn Laravel in simple and easy steps starting from basic to advanced concepts by creating your first to-do application with basic CRUD functionality
 * [8 Best + Free Laravel 5 Tutorial, Course [2019] [UPDATED]](https://digitaldefynd.com/best-laravel-tutorial-course-training-certification/) —— 8 Best + Free Laravel Tutorial, Course, Training, Class & Certification Online [2019]
+* [Laravel 6 CRUD Application Tutorial](https://www.itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html) —— Laravel 6 CRUD Application Tutorial
 
 ## Laravel 开源项目集
 ### 原型项目
