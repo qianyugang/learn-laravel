@@ -161,6 +161,7 @@
 * [Laravel 6 Tutorial for Beginner: Create your First To-Do App](https://www.parthpatel.net/laravel-tutorial-for-beginner/)　—— Learn Laravel in simple and easy steps starting from basic to advanced concepts by creating your first to-do application with basic CRUD functionality
 * [8 Best + Free Laravel 5 Tutorial, Course [2019] [UPDATED]](https://digitaldefynd.com/best-laravel-tutorial-course-training-certification/) —— 8 Best + Free Laravel Tutorial, Course, Training, Class & Certification Online [2019]
 * [Laravel 6 CRUD Application Tutorial](https://www.itsolutionstuff.com/post/laravel-6-crud-application-tutorialexample.html) —— Laravel 6 CRUD Application Tutorial
+* [Laravel 6 Tutorial From Scratch | Step By Step](https://www.tutsmake.com/laravel-6-tutorial-from-scratch-laravel-step-by-step/) —— Here you can learn laravel easy and simple way from scratch (step by step).
 
 ## Laravel 开源项目集
 ### 原型项目
