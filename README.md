@@ -130,6 +130,7 @@
 * [Laravel开发商城前台视频教程](https://www.php.cn/course/859.html) —— 《Laravel开发商城前台视频教程》本节课程是使用PHP框架laravel开发的商城前台，对于想学习一款PHP框架的同学来说，本节视频教程是很不错的选择哦！
 * [Laravel电商项目实战课程](https://www.php.cn/course/994.html) —— 《Laravel电商项目实战课程》课程讲解了Laravel项目的开发，学完该课程，就可以模仿开发一个电商项目了
 * [Laravel实战开发短链生成器视频教程](https://www.php.cn/course/717.html) —— 《Laravel实战开发短链生成器视频教程》Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。
+* [Laravel 6 PHP Framework for Just Beginners](https://www.udemy.com/course/laravel-6-framework/) —— In this course, you will learn larval 6 Core Functionalities, Laravel 6 CRUD and Default Authentication System.
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
