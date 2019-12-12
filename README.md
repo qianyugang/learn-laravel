@@ -133,7 +133,8 @@
 * [Laravel 6 PHP Framework for Just Beginners](https://www.udemy.com/course/laravel-6-framework/) —— In this course, you will learn larval 6 Core Functionalities, Laravel 6 CRUD and Default Authentication System.
 * [Laravel 6.0 视频教程之新特性篇 - Coding10 出品](https://www.bilibili.com/video/av67323951/) —— 本套视频我们简单介绍一下Laravel 6.0带来的新特性。bilibili.com
 * [Laravel 6 登录跳转](http://www.coding10.com/course/laravel6-auth-redirect) —— 登录跳转指的就是不同角色的用户登录之后会自动跳转到不同的服务页面，这是个简单的功能，实现也简单
-* [Laravel 在线支付](http://www.coding10.com/course/pc-payment-online) —— 我们本系列视频的专题就是在线支付，重点看一下如何实现 PC 网页上的扫码支付
+* [Laravel 在线支付](http://www.coding10.com/course/pc-payment-online) —— 我们本系列视频的专题就是在线支付，重点看一下如何实现 PC 网页上的扫码支付  *（收费）* 
+* [Laravel资源管理](http://www.coding10.com/course/laravel-resource-management) —— 重点解决资源管理的问题，我们会构建一套资源管控机制，将用户资源更好的管理和维护 *（收费）* 
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
