@@ -132,6 +132,7 @@
 * [Laravel实战开发短链生成器视频教程](https://www.php.cn/course/717.html) —— 《Laravel实战开发短链生成器视频教程》Laravel是一套简洁、优雅的PHP Web开发框架(PHP Web Framework)。
 * [Laravel 6 PHP Framework for Just Beginners](https://www.udemy.com/course/laravel-6-framework/) —— In this course, you will learn larval 6 Core Functionalities, Laravel 6 CRUD and Default Authentication System.
 * [Laravel 6.0 视频教程之新特性篇 - Coding10 出品](https://www.bilibili.com/video/av67323951/) —— 本套视频我们简单介绍一下Laravel 6.0带来的新特性。bilibili.com
+* [Laravel 6 登录跳转](http://www.coding10.com/course/laravel6-auth-redirect) —— 登录跳转指的就是不同角色的用户登录之后会自动跳转到不同的服务页面，这是个简单的功能，实现也简单
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
