@@ -140,6 +140,7 @@
 * [Laravel API 接口开发 ](http://www.coding10.com/course/laravel-passport) —— 本套视频我们会对之前的很多知识进行一次大的整合，把零散的知识全部串起来。学会接口开发，给自己的职业发展扩展更大的空间吧。 *（收费）* 
 * [ Laravel 事件监听](http://www.coding10.com/course/laravel-event-listener) —— Laravel Event & Listener 事件监听机制，让开发者不光是可以把代码组织得更加有条理的手段，而且也是对现实社会运行规则的高度抽象化映射。 *（收费）* 
 * [Laravel 6.0 最新特性](http://www.coding10.com/course/what-is-new-in-laravel-6-lts) —— 6.0版本就是这样一个开端，它也是第一个语义化版本的开始，Laravel的版本演进也将进入更正规的迭代更新，虽然新特性并不多，但是还是带来了一些让人爱不释手的新变化
+* [Laravel 缓存 ](http://www.coding10.com/course/laravel-cache) —— Laravel 的缓存系统绝对是最好用的缓存系统之一，接口简单易用，对开发者极其友好 ~ *（收费）* 
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
