@@ -136,6 +136,7 @@
 * [Laravel 在线支付](http://www.coding10.com/course/pc-payment-online) —— 我们本系列视频的专题就是在线支付，重点看一下如何实现 PC 网页上的扫码支付。  *（收费）* 
 * [Laravel 资源管理](http://www.coding10.com/course/laravel-resource-management) —— 重点解决资源管理的问题，我们会构建一套资源管控机制，将用户资源更好的管理和维护。 *（收费）* 
 * [Laravel Voyager 后台系统](http://www.coding10.com/course/laravel-admin-dashboard-voyager) —— 这个后台系统就是 Voyager，与官方的 Nova 相比，Voyager 也不落下风，在易用性方面甚至超过 Nova。 *（收费）* 
+* [ Laravel 钩子技术](http://www.coding10.com/course/laravel-webhook) —— HOOK 课程是 Coding10 最有分量的一套视频，因为Hook的作用实在太强大了，应用也极为广泛，不管是订阅通知，还是物联网，智能家居，远程事件监控，在线支付实现都有它的身影。 *（收费）* 
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
