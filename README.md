@@ -137,6 +137,7 @@
 * [Laravel 资源管理](http://www.coding10.com/course/laravel-resource-management) —— 重点解决资源管理的问题，我们会构建一套资源管控机制，将用户资源更好的管理和维护。 *（收费）* 
 * [Laravel Voyager 后台系统](http://www.coding10.com/course/laravel-admin-dashboard-voyager) —— 这个后台系统就是 Voyager，与官方的 Nova 相比，Voyager 也不落下风，在易用性方面甚至超过 Nova。 *（收费）* 
 * [ Laravel 钩子技术](http://www.coding10.com/course/laravel-webhook) —— HOOK 课程是 Coding10 最有分量的一套视频，因为Hook的作用实在太强大了，应用也极为广泛，不管是订阅通知，还是物联网，智能家居，远程事件监控，在线支付实现都有它的身影。 *（收费）* 
+* [Laravel API 接口开发 ](http://www.coding10.com/course/laravel-passport) —— 本套视频我们会对之前的很多知识进行一次大的整合，把零散的知识全部串起来。学会接口开发，给自己的职业发展扩展更大的空间吧。 *（收费）* 
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
