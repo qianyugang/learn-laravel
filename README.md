@@ -144,7 +144,8 @@
 * [Laravel 缓存 ](http://www.coding10.com/course/laravel-cache) —— Laravel 的缓存系统绝对是最好用的缓存系统之一，接口简单易用，对开发者极其友好 ~ *（收费）* 
 * [Laravel 7 正式发布，快来看看都有哪些令人脸红的新特性](bilibili.com/video/BV1cE411u7Ti) —— Laravel 视频教程： Laravel 7 正式发布，快来看看都有哪些令人脸红的新特性。
 * [Laravel 7 新特性：更友好的测试命令 php artisan test 以及文件模板](https://www.bilibili.com/video/BV1BE411N7Sg) —— Laravel 视频教程： Laravel 7 新特性之更友好的测试命令 php artisan test 以及文件模板。bilibili.com
-* [Laravel 7 新特性：路由绑定新姿势以及路由数据范围锁定](https://www.bilibili.com/video/BV1BE411N7vL) —— Laravel 视频教程： Laravel 7 新特性：路由绑定新姿势以及路由数据范围锁定bilibili.com
+* [Laravel 7 新特性：路由绑定新姿势以及路由数据范围锁定](https://www.bilibili.com/video/BV1BE411N7vL) —— Laravel 视频教程： Laravel 7 新特性：路由绑定新姿势以及路由数据范围锁定。bilibili.com
+* [Laravel 7 新特性：Fluent 字符串链式操作让字符串操作得到解脱](https://www.bilibili.com/video/BV1BE411N7n9) —— Laravel 视频教程： Laravel 7 新特性： Fluent 字符串链式操作让字符串操作得到解脱。bilibili.com
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
