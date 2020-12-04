@@ -148,6 +148,7 @@
 * [Laravel 7 新特性：路由绑定新姿势以及路由数据范围锁定](https://www.bilibili.com/video/BV1BE411N7vL) —— Laravel 视频教程： Laravel 7 新特性：路由绑定新姿势以及路由数据范围锁定。bilibili.com
 * [Laravel 7 新特性：Fluent 字符串链式操作让字符串操作得到解脱](https://www.bilibili.com/video/BV1BE411N7n9) —— Laravel 视频教程： Laravel 7 新特性： Fluent 字符串链式操作让字符串操作得到解脱。bilibili.com
 * [Laravel 7 最新特性](http://www.coding10.com/course/laravel7-new-features) —— Laravel 的演进方式非常成熟，以后也会围绕“效率”和“易用性”着两个方面对框架进行改进和升级。
+* [Laravel 8 版本体验](https://www.bilibili.com/video/BV15p4y1Y7h7) —— Laravel 8 版本体验。bilibili.com
 
 ### 教程
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
@@ -183,6 +184,7 @@
 * [Laravel 7 扩展开发教程](https://zhuanlan.zhihu.com/p/139016990) —— Laravel 7 扩展开发教程
 * [Laravel 入门项目：博客系列教程](https://xueyuanjun.com/books/laravel-blog-tutorial) —— Laravel 入门项目：博客系列教程 
 * [微信小程序开发入门系列教程](https://xueyuanjun.com/books/wechat-miniprogram-tutorial) —— 基于Laravel API接口的微信小程序开发快速入门指南 
+* [Laravel 8 教程：一个简单的 CRUD 教程](https://learnku.com/laravel/t/50012) —— Laravel 8 教程：一个简单的 CRUD 教程
 
 ## Laravel 开源项目集
 ### 原型项目
