@@ -51,6 +51,7 @@
 * [L04 Laravel 教程 - 微信小程序从零到发布 ( Laravel 5.5) ](https://learnku.com/courses/laravel-weapp/5.5) —— 从第一行代码，到微信小程序的提交发布 *（收费）*
 * [L05 Laravel 教程 - 电商实战 ( Laravel 5.8)](https://learnku.com/courses/laravel-shop/5.8) —— 手把手带你开发一个电商项目 *（收费）*
 * [L06 Laravel 教程 - 电商进阶 ( Laravel 5.8 ) ](https://learnku.com/courses/ecommerce-advance/5.8) —— 手把手带你开发一个电商项目进阶 *（收费）*
+* [L07 Laravel 教程 - Laravel TDD 测试 ( Laravel 7.x ) ](https://learnku.com/courses/laravel-testing/7.x) —— Laravel 测试入门，基于一个完整的项目，160+ 个测试覆盖单元测试、集成测试、浏览器测试，与您一起敲开软件测试的大门。 *（收费）*
 * [Laravel: Up and Running](https://book.douban.com/subject/26801718/) —— A Framework for Building Modern PHP Apps 作者: Matt Stauffer 
 * [Laravel入门与实战](https://book.douban.com/subject/30190190/) —— 构建主流PHP应用开发框架《Laravel: Up and Running》的中文译本
 * [Design Patterns in PHP and Laravel](https://book.douban.com/subject/26964602/) —— 作者: Kelt Dockins 
