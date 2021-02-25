@@ -153,6 +153,7 @@
 * [Laravel 7 最新特性](http://www.coding10.com/course/laravel7-new-features) —— Laravel 的演进方式非常成熟，以后也会围绕“效率”和“易用性”着两个方面对框架进行改进和升级。
 * [Laravel 8 版本体验](https://www.bilibili.com/video/BV15p4y1Y7h7) —— Laravel 8 版本体验。bilibili.com
 * [25分钟带你入门Laravel 8](https://www.bilibili.com/video/av372599092/) —— 今集会介绍非常热门的 PHP 框架 Laravel，刚刚推出了 8.0 版本。我们用 25 分钟时间，了解它的基本用法，包括增删查改、用户验证及表单验证。bilibili.com
+* [Learn Laravel 8 Beginners Tutorial #1](https://www.youtube.com/watch?v=LQYq_LlGUc8&t=1s) —— Learn Laravel 8 Beginners Tutorial #1 - Requirements, Installation of Laravel 8。YouTube
 
 ### 教程
 * [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/8.x) —— Laravel 速查表
