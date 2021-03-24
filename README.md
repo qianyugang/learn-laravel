@@ -57,6 +57,7 @@
 * [Design Patterns in PHP and Laravel](https://book.douban.com/subject/26964602/) —— 作者: Kelt Dockins 
 * [Full-Stack Vue.js 2 and Laravel 5]() —— Bring the frontend and backend together with Vue, Vuex, and Laravel 作者: Anthony Gore 
 * [Laravel框架关键技术解析](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQIaD1QdWBAyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVAhoPVB1YEB1LQglGa2prW3E2RCNoYVJDLG8HY0p1HT5MXVMOHjdUK1sUAxEFURlcFwMiN1Uca0NsEgZUGloUBxICVitaJQIVB1IfXBAEEARcGF4lBRIOZczygdW0k42pwsGKn9HMsI%2B%2FniI3ZRhrJTISN1YrGXtXEgQCTwxGAxAOBUleRgIXDgdMD0cCG1QGE18WBEAPUytZFAMWDg%3D%3D) —— 本书既适合想了解Laravel框架构建技术的读者，也适合想深入了解Laravel框架的读者。作者：陈昊
+* [Laravel入门与实战：构建主流PHP应用开发框架](https://union-click.jd.com/jdc?e=&p=AyIGZRhfHAUXAVQZXxcyEQFXGV0cAhEDUxtrUV1KWQorAlBHU0VeBUVNR0ZbSkAOClBMW0sYXRcAFA5VGF8TAg1eEEcGJURaRCN4QXIKcXUjGSN0Zkt9VhoIVXIeC2UaaxUDEwRXH1kSABM3ZRtcJUN8AlUaUhcyEzdVHFsSBhUCXBxaHAEQN1IbUiXVu5OCvc%2FNsIvT3ZaNjKnGrckrayUBIjdlG2sWMlBpBhtdQgERDl0SUxxRF1cGTghCAxVXXExbFwVBBgYdXxwyEAZUH1I%3D) —— 对Laravel框架进行了系统的介绍，包括Laravel的背景、Laravel开发环境的搭建、路由与控制器、Blade模板、前端组件、收集和处理用户数据、Artisan和Tinker、数据库和Eloquent、容器、Laravel测试等知识。作者：Matt Stauffer
 
 ### 源码解读
 * [Laravel 源码解读](https://www.jianshu.com/p/b7ea3f2a55f6) —— yii/laravel 的源码质量超高, phper 一定要好好读一读
