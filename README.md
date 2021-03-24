@@ -56,6 +56,7 @@
 * [Laravel入门与实战](https://book.douban.com/subject/30190190/) —— 构建主流PHP应用开发框架《Laravel: Up and Running》的中文译本
 * [Design Patterns in PHP and Laravel](https://book.douban.com/subject/26964602/) —— 作者: Kelt Dockins 
 * [Full-Stack Vue.js 2 and Laravel 5]() —— Bring the frontend and backend together with Vue, Vuex, and Laravel 作者: Anthony Gore 
+* [Laravel框架关键技术解析](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQIaD1QdWBAyVlgNRQQlW1dCFFlQCxxKQgFHRE5XDVULR0UVAhoPVB1YEB1LQglGa2prW3E2RCNoYVJDLG8HY0p1HT5MXVMOHjdUK1sUAxEFURlcFwMiN1Uca0NsEgZUGloUBxICVitaJQIVB1IfXBAEEARcGF4lBRIOZczygdW0k42pwsGKn9HMsI%2B%2FniI3ZRhrJTISN1YrGXtXEgQCTwxGAxAOBUleRgIXDgdMD0cCG1QGE18WBEAPUytZFAMWDg%3D%3D) —— 本书既适合想了解Laravel框架构建技术的读者，也适合想深入了解Laravel框架的读者。作者：陈昊
 
 ### 源码解读
 * [Laravel 源码解读](https://www.jianshu.com/p/b7ea3f2a55f6) —— yii/laravel 的源码质量超高, phper 一定要好好读一读
