@@ -199,7 +199,7 @@
 * [Laravel 入门项目：博客系列教程](https://xueyuanjun.com/books/laravel-blog-tutorial) —— Laravel 入门项目：博客系列教程 
 * [微信小程序开发入门系列教程](https://xueyuanjun.com/books/wechat-miniprogram-tutorial) —— 基于Laravel API接口的微信小程序开发快速入门指南 
 * [Laravel 8 教程：一个简单的 CRUD 教程](https://learnku.com/laravel/t/50012) —— Laravel 8 教程：一个简单的 CRUD 教程
-* [Laravel 8 系列教程](https://www.imooc.com/u/1121672/articles?label_id=126) —— 无涯教程：Laravel 8 系列教程
+* [Laravel 8 系列教程](https://www.learnfk.com/course-laravel) —— 无涯教程：Laravel 8 系列教程
 
 ## Laravel 开源项目集
 ### 原型项目
