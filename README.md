@@ -163,7 +163,7 @@
 * [Learn Laravel 8 Beginners Tutorial #6](https://www.youtube.com/watch?v=txWNZcqKZRg) —— Learn Laravel 8 Beginners Tutorial #6 - Routing in Laravel 8 #2。YouTube
 * [PHP高级|2021最新Laravel8.0从入门到精通实战教程](https://www.bilibili.com/video/av330756960/) —— PHP高级|2021最新Laravel8.0从入门到精通实战教程。bilibili.com
 
-### 教程
+### 文章教程
 * [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/8.x) —— Laravel 速查表
 * [lvwenhan.com](https://lvwenhan.com/sort/laravel) —— 【最适合中国人的Laravel教程】系列 - 岁寒
 * [Laravel5系列入门教程](http://www.golaravel.com/post/laravel-5-getting-started-part-1/) —— Laravel5系列入门教程
