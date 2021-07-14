@@ -161,7 +161,7 @@
 * [Learn Laravel 8 Beginners Tutorial #4](https://www.youtube.com/watch?v=V2bRK9w4rR4) —— Learn Laravel 8 Beginners Tutorial #4 - Create First Program in Laravel 8。YouTube
 * [Learn Laravel 8 Beginners Tutorial #5](https://www.youtube.com/watch?v=mVEBaFnehOw) —— Learn Laravel 8 Beginners Tutorial #5 - Routing in Laravel 8 #1。YouTube
 * [Learn Laravel 8 Beginners Tutorial #6](https://www.youtube.com/watch?v=txWNZcqKZRg) —— Learn Laravel 8 Beginners Tutorial #6 - Routing in Laravel 8 #2。YouTube
-
+* [PHP高级|2021最新Laravel8.0从入门到精通实战教程](https://www.bilibili.com/video/av330756960/) —— PHP高级|2021最新Laravel8.0从入门到精通实战教程。bilibili.com
 
 ### 教程
 * [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/8.x) —— Laravel 速查表
