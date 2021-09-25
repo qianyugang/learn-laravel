@@ -242,6 +242,11 @@
 * [Antvel](https://laravelacademy.org/post/3793.html) —— Antvel 是一个基于 Laravel 5.* 开发的开源电子商务项目
 * [Bagisto](https://laravelacademy.org/post/19446.html) —— 基于 Laravel + Vue.js 构建的开源电商系统 
 
+### 面试
+
+* [PHP 面试指南-laravel 篇](https://www.jishuchi.com/read/php-advanced-interview/3441)
+* [91 个常见的 Laravel 面试题和答案](https://learnku.com/laravel/t/38446)
+
 ## 其他
 * [Laravel Tricks](http://laravelacademy.org/post/681.html) ——   Laravel 小技巧&小贴士
 * [Invoice Ninja](http://laravelacademy.org/post/1117.html) ——   基于 Laravel 构建的开源发票及时间跟踪应用
