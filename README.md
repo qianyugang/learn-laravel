@@ -246,6 +246,9 @@
 
 * [PHP 面试指南-laravel 篇](https://www.jishuchi.com/read/php-advanced-interview/3441)
 * [91 个常见的 Laravel 面试题和答案](https://learnku.com/laravel/t/38446)
+* [2021年PHP-Laravel面试题](https://blog.csdn.net/wuxianbing2012/article/details/113565388)
+* [面试必备！Laravel面试题及其答案合集详解](http://www.srcmini.com/33203.html)
+* [50道面试官必问的Laravel面试题【附答案】](https://www.php.cn/phpkj/laravel/473457.html)
 
 ## 其他
 * [Laravel Tricks](http://laravelacademy.org/post/681.html) ——   Laravel 小技巧&小贴士
