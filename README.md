@@ -15,26 +15,29 @@
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
 
 ### 文档
-* [Laravel 5.1 中文文档](https://learnku.com/docs/laravel/5.1) —— Laravel 5.1 中文文档
-* [Laravel 5.2 中文文档](https://learnku.com/docs/laravel/5.2) —— Laravel 5.2 中文文档
-* [Laravel 5.3 中文文档](https://learnku.com/docs/laravel/5.3) —— Laravel 5.3 中文文档
-* [Laravel 5.4 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.4 中文文档
-* [Laravel 5.5 中文文档](https://learnku.com/docs/laravel/5.5) —— Laravel 5.5 中文文档
-* [Laravel 5.6 中文文档](https://learnku.com/docs/laravel/5.6) —— Laravel 5.6 中文文档
-* [Laravel 5.7 中文文档](https://learnku.com/docs/laravel/5.7) —— Laravel 5.7 中文文档
-* [Laravel 5.8 中文文档](https://learnku.com/docs/laravel/5.8) —— Laravel 5.8 中文文档
-* [Laravel 6.x 中文文档](https://learnku.com/docs/laravel/6.x) —— Laravel 6.x 中文文档
-* [Laravel 7.x 中文文档](https://learnku.com/docs/laravel/7.x) —— Laravel 7.x 中文文档
-* [Laravel 8.x 中文文档](https://learnku.com/docs/laravel/8.x) —— Laravel 8.x 中文文档
-* [Laravel 8.5 中文文档](https://learnku.com/docs/laravel/8.5) —— Laravel 8.5 中文文档
-* [Lumen 中文文档 5.1](https://learnku.com/docs/lumen/5.1) —— Lumen 中文文档 5.1
-* [Lumen 中文文档 5.2](https://learnku.com/docs/lumen/5.2) —— Lumen 中文文档 5.2 
-* [Lumen 中文文档 5.3](https://learnku.com/docs/lumen/5.3) —— Lumen 中文文档 5.3 
-* [Lumen 中文文档 5.4](https://learnku.com/docs/lumen/5.4) —— Lumen 中文文档 5.4 
-* [Lumen 中文文档 5.5](https://learnku.com/docs/lumen/5.5) —— Lumen 中文文档 5.5 
-* [Lumen 中文文档 5.6](https://learnku.com/docs/lumen/5.6) —— Lumen 中文文档 5.6 
-* [Lumen 中文文档 5.7](https://learnku.com/docs/lumen/5.7) —— Lumen 中文文档 5.7 
-* [Lumen 中文文档 6.x](https://learnku.com/docs/lumen/6.x) —— Lumen 中文文档 6.x
+
+* Laravel 中文文档
+  * [Laravel 5.1 中文文档](https://learnku.com/docs/laravel/5.1) —— Laravel 5.1 中文文档
+  * [Laravel 5.2 中文文档](https://learnku.com/docs/laravel/5.2) —— Laravel 5.2 中文文档
+  * [Laravel 5.3 中文文档](https://learnku.com/docs/laravel/5.3) —— Laravel 5.3 中文文档
+  * [Laravel 5.4 中文文档](https://learnku.com/docs/laravel/5.4) —— Laravel 5.4 中文文档
+  * [Laravel 5.5 中文文档](https://learnku.com/docs/laravel/5.5) —— Laravel 5.5 中文文档
+  * [Laravel 5.6 中文文档](https://learnku.com/docs/laravel/5.6) —— Laravel 5.6 中文文档
+  * [Laravel 5.7 中文文档](https://learnku.com/docs/laravel/5.7) —— Laravel 5.7 中文文档
+  * [Laravel 5.8 中文文档](https://learnku.com/docs/laravel/5.8) —— Laravel 5.8 中文文档
+  * [Laravel 6.x 中文文档](https://learnku.com/docs/laravel/6.x) —— Laravel 6.x 中文文档
+  * [Laravel 7.x 中文文档](https://learnku.com/docs/laravel/7.x) —— Laravel 7.x 中文文档
+  * [Laravel 8.x 中文文档](https://learnku.com/docs/laravel/8.x) —— Laravel 8.x 中文文档
+  * [Laravel 8.5 中文文档](https://learnku.com/docs/laravel/8.5) —— Laravel 8.5 中文文档
+* Lumen 中文文档
+  * [Lumen 中文文档 5.1](https://learnku.com/docs/lumen/5.1) —— Lumen 中文文档 5.1
+  * [Lumen 中文文档 5.2](https://learnku.com/docs/lumen/5.2) —— Lumen 中文文档 5.2 
+  * [Lumen 中文文档 5.3](https://learnku.com/docs/lumen/5.3) —— Lumen 中文文档 5.3 
+  * [Lumen 中文文档 5.4](https://learnku.com/docs/lumen/5.4) —— Lumen 中文文档 5.4 
+  * [Lumen 中文文档 5.5](https://learnku.com/docs/lumen/5.5) —— Lumen 中文文档 5.5 
+  * [Lumen 中文文档 5.6](https://learnku.com/docs/lumen/5.6) —— Lumen 中文文档 5.6 
+  * [Lumen 中文文档 5.7](https://learnku.com/docs/lumen/5.7) —— Lumen 中文文档 5.7 
+  * [Lumen 中文文档 6.x](https://learnku.com/docs/lumen/6.x) —— Lumen 中文文档 6.x
 
 ### 书籍
 * [《Laravel 入门教程》](https://laravel-china.org/topics/3383/laravel-the-first-chinese-new-book-laravel-tutorial) —— Laravel 第一本中文新手书籍《Laravel 入门教程》
