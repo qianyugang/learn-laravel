@@ -9,8 +9,7 @@
 * [PHP 之道](http://laravel-china.github.io/php-the-right-way/#object_caching) —— PHP The Right Way
 
 ### 论坛
-* [Laravel-china.org](http://laravel-china.org/) —— Laravel 论坛
-* [phphub.org](https://phphub.org/) —— 积极向上的 PHP & Laravel 开发者社区,
+* [learnku.com](https://learnku.com/) —— Laravel China 社区 - 高品质的 Laravel 开发者社区
 * [laravel.io](http://laravel.io/) —— Laravel 开发者社区
 * [laravelacademy.org](http://laravelacademy.org/) —— Laravel学院，致力于提供优质Laravel中文学习资源
 
