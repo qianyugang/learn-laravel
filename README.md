@@ -243,6 +243,7 @@
 * [moell-blog](https://github.com/moell-peng/moell-blog) —— 基于 Laravel 开发，支持 Markdown 语法的博客 moell.cn
 * [bjyblog](https://github.com/baijunyao/laravel-bjyblog) —— 基于 laravel 开发的的 blog baijunyao.com，这个项目是把 thinkphp-bjyblog 用 laravel 框架重构后的产物
 * [PJ Blog](https://github.com/jcc/blog) —— 一个由 Laravel 5.* 和 Vuejs 2.* 建立的开源博客系统。pigjian.com
+* [Livewire-Blog](https://github.com/youyingxiang/livewire-blog) —— Livewire-Blog是一个基于laravel-8开发的一个博客系统
 
 ### 电子商务
 * [Antvel](https://laravelacademy.org/post/3793.html) —— Antvel 是一个基于 Laravel 5.* 开发的开源电子商务项目
