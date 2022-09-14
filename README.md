@@ -168,6 +168,9 @@
 * [PHP高级|2021最新Laravel8.0从入门到精通实战教程](https://www.bilibili.com/video/av330756960/) —— PHP高级|2021最新Laravel8.0从入门到精通实战教程。bilibili.com
 * [2020最新laravel8.0深入浅出大神进阶之路](https://www.bilibili.com/video/BV1op4y167pY?spm_id_from=333.999.0.0) —— 【PHP框架】2020最新laravel8.0深入浅出大神进阶之路。bilibili.com
 * [LX4 Laravel / PHP 五分钟视频](https://learnku.com/courses/php-laravel-video/2022) —— LX4 Laravel / PHP 五分钟视频。*（收费）*
+* [Laravel 9 基础入门](https://www.coding10.com/course/laravel-9-basic) —— 从零开始，采取渗透式的学习方式，一步步从简单的概念出发，一点点掌握程序开发，项目管理以及程序设计的核心内容。
+* [Laravel 9 全新特性](https://www.coding10.com/course/laravel9-new-features) —— Laravel 9 全新特性详解
+* [Laravel 9 学习正当时](https://www.php.cn/course/1421.html) —— Laravel 9 学习正当时—保姆级教程，想学不会都难！*（收费）*
 
 ### 文章教程
 * [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/8.x) —— Laravel 速查表
