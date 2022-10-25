@@ -171,6 +171,7 @@
 * [Laravel 9 基础入门](https://www.coding10.com/course/laravel-9-basic) —— 从零开始，采取渗透式的学习方式，一步步从简单的概念出发，一点点掌握程序开发，项目管理以及程序设计的核心内容。
 * [Laravel 9 全新特性](https://www.coding10.com/course/laravel9-new-features) —— Laravel 9 全新特性详解
 * [Laravel 9 学习正当时](https://www.php.cn/course/1421.html) —— Laravel 9 学习正当时—保姆级教程，想学不会都难！*（收费）*
+* [Laravel 9 小白基础入门大闯关](https://space.bilibili.com/108698873/channel/collectiondetail?sid=527176) —— Laravel 9 入门。bilibili.com
 
 ### 文章教程
 * [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/8.x) —— Laravel 速查表
