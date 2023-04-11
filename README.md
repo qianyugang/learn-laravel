@@ -29,6 +29,8 @@
   * [Laravel 8.x 中文文档](https://learnku.com/docs/laravel/8.x) —— Laravel 8.x 中文文档
   * [Laravel 8.5 中文文档](https://learnku.com/docs/laravel/8.5) —— Laravel 8.5 中文文档
   * [Laravel 9.x 中文文档](https://learnku.com/docs/laravel/9.x) —— Laravel 9.x 中文文档
+  * [Laravel 9.x 中文文档](https://learnku.com/docs/laravel/10.x) —— Laravel 10.x 中文文档
+
 * Lumen 中文文档
   * [Lumen 中文文档 5.1](https://learnku.com/docs/lumen/5.1) —— Lumen 中文文档 5.1
   * [Lumen 中文文档 5.2](https://learnku.com/docs/lumen/5.2) —— Lumen 中文文档 5.2 
