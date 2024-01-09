@@ -174,6 +174,7 @@
 * [Laravel 9 全新特性](https://www.coding10.com/course/laravel9-new-features) —— Laravel 9 全新特性详解
 * [Laravel 9 学习正当时](https://www.php.cn/course/1421.html) —— Laravel 9 学习正当时—保姆级教程，想学不会都难！*（收费）*
 * [Laravel 9 小白基础入门大闯关](https://space.bilibili.com/108698873/channel/collectiondetail?sid=527176) —— Laravel 9 入门。bilibili.com
+* [Laravel 9 & 10 优雅实战入门（第三版）](https://www.pilishen.com/course/1) —— Laravel 9 & 10 优雅实战入门（第三版）*（收费）*
 
 ### 文章教程
 * [Laravel 速查表](https://learnku.com/docs/laravel-cheatsheet/8.x) —— Laravel 速查表
