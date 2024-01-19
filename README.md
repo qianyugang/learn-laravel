@@ -279,3 +279,8 @@
 * [A Laravel Boilerplate Project](https://github.com/rappasoft/laravel-boilerplate) —— Laravel Boilerplate (Current: Laravel 6.0) 
 * [微信 SDK for Laravel 5 / Lumen](https://github.com/overtrue/laravel-wechat) —— 微信 SDK for Laravel 5 / Lumen， 基于 overtrue/wechat
 * [Larave9.0 + bootstrap3 后台管理系统](https://github.com/qin795217119/b5laravelcmf) —— B5LaravelCMF V2.0，基于 Laravel 9 + bootstrap 3，构架的通用后台开发框架，简洁、易读、方便系统扩展及二次开发。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=qianyugang/learn-laravel&type=Date)](https://star-history.com/#qianyugang/learn-laravel&Date)
+
